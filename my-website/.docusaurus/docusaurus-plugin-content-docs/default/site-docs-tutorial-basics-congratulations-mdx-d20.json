@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "Método de Venda de PLRs",
+  "description": "R$34.99",
+  "source": "@site/docs/tutorial-basics/congratulations.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pacotes de cursos",
+    "permalink": "/docs/category/pacotes-de-cursos"
+  },
+  "next": {
+    "title": "10 passos para seu negócio online",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

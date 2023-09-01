@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/segredos-bitcoin",
+  "id": "tutorial-extras/segredos-bitcoin",
+  "title": "Os segredos do bitcoin revelados",
+  "description": "R$9.99",
+  "source": "@site/docs/tutorial-extras/segredos-bitcoin.mdx",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/segredos-bitcoin",
+  "permalink": "/docs/tutorial-extras/segredos-bitcoin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Como realizar um Pitch de Vendas",
+    "permalink": "/docs/tutorial-extras/pitch-vendas"
+  },
+  "next": {
+    "title": "Perfil lucrativo em pesquisas",
+    "permalink": "/docs/tutorial-extras/pesquisas-lucrativas"
+  }
+}

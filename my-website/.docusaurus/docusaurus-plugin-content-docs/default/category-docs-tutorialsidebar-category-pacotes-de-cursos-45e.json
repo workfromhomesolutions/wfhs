@@ -1,0 +1,16 @@
+{
+  "title": "Pacotes de cursos",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/pacotes-de-cursos",
+  "permalink": "/docs/category/pacotes-de-cursos",
+  "navigation": {
+    "previous": {
+      "title": "Sobre nós",
+      "permalink": "/docs/sobre-nos"
+    },
+    "next": {
+      "title": "Método de Negócio online",
+      "permalink": "/docs/cursos/negocio-online"
+    }
+  }
+}

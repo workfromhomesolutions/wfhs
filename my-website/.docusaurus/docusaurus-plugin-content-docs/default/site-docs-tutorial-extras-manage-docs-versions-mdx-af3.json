@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/manage-docs-versions",
+  "id": "tutorial-extras/manage-docs-versions",
+  "title": "Como realizar um Pitch de Vendas",
+  "description": "R$9.99",
+  "source": "@site/docs/tutorial-extras/manage-docs-versions.mdx",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/manage-docs-versions",
+  "permalink": "/docs/tutorial-extras/manage-docs-versions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Como realizar um Pitch de Vendas",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Os segredos do bitcoin revelados",
+    "permalink": "/docs/tutorial-extras/segredos-bitcoin"
+  }
+}

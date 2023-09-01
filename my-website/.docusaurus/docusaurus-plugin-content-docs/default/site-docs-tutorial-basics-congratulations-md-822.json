@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "Pacote completo: Renda extra com PLR",
+  "description": "R$34.99 | Melhor pacote PLR | Conteúdo de alta qualidade",
+  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pacotes de cursos",
+    "permalink": "/docs/category/pacotes-de-cursos"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

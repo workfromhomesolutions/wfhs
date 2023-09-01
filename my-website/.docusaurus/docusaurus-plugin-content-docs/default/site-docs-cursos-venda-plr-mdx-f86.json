@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cursos/venda-plr",
+  "id": "cursos/venda-plr",
+  "title": "Método de Venda de PLRs",
+  "description": "R$34.99",
+  "source": "@site/docs/cursos/venda-plr.mdx",
+  "sourceDirName": "cursos",
+  "slug": "/cursos/venda-plr",
+  "permalink": "/docs/cursos/venda-plr",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Método de Negócio online",
+    "permalink": "/docs/cursos/negocio-online"
+  },
+  "next": {
+    "title": "Método técnicas de Home Office",
+    "permalink": "/docs/cursos/home-office"
+  }
+}

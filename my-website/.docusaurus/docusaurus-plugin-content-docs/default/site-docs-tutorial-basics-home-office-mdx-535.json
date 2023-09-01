@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/home-office",
+  "id": "tutorial-basics/home-office",
+  "title": "Método técnicas de Home Office",
+  "description": "R$49.99",
+  "source": "@site/docs/tutorial-basics/home-office.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/home-office",
+  "permalink": "/docs/tutorial-basics/home-office",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Método de Venda de PLRs",
+    "permalink": "/docs/tutorial-basics/venda-plr"
+  },
+  "next": {
+    "title": "Lista de e-Books",
+    "permalink": "/docs/category/lista-de-e-books"
+  }
+}

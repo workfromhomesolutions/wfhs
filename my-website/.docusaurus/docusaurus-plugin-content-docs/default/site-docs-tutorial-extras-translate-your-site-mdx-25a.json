@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/translate-your-site",
+  "id": "tutorial-extras/translate-your-site",
+  "title": "Como realizar um Pitch de Vendas",
+  "description": "R$4.99",
+  "source": "@site/docs/tutorial-extras/translate-your-site.mdx",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/translate-your-site",
+  "permalink": "/docs/tutorial-extras/translate-your-site",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lista de e-Books",
+    "permalink": "/docs/category/lista-de-e-books"
+  },
+  "next": {
+    "title": "Como realizar um Pitch de Vendas",
+    "permalink": "/docs/tutorial-extras/pitch-vendas"
+  }
+}

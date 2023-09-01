@@ -1,0 +1,26 @@
+{
+  "unversionedId": "ebooks/lucro-chatgpt",
+  "id": "ebooks/lucro-chatgpt",
+  "title": "4 formas de lucrar com o ChatGPT",
+  "description": "R$4.99",
+  "source": "@site/docs/ebooks/lucro-chatgpt.mdx",
+  "sourceDirName": "ebooks",
+  "slug": "/ebooks/lucro-chatgpt",
+  "permalink": "/docs/ebooks/lucro-chatgpt",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lista de e-Books",
+    "permalink": "/docs/category/lista-de-e-books"
+  },
+  "next": {
+    "title": "Como realizar um Pitch de Vendas",
+    "permalink": "/docs/ebooks/pitch-vendas"
+  }
+}

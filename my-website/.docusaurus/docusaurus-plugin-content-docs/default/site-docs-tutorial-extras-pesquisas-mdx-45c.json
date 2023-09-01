@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/pesquisas",
+  "id": "tutorial-extras/pesquisas",
+  "title": "Como ter sucesso em pesquisas remuneradas",
+  "description": "R$9.99",
+  "source": "@site/docs/tutorial-extras/pesquisas.mdx",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/pesquisas",
+  "permalink": "/docs/tutorial-extras/pesquisas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Os segredos do bitcoin revelados",
+    "permalink": "/docs/tutorial-extras/segredos-bitcoin"
+  },
+  "next": {
+    "title": "Política de privacidade",
+    "permalink": "/docs/policy"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/create-a-document",
+  "id": "tutorial-basics/create-a-document",
+  "title": "10 passos para seu negócio online",
+  "description": "R$34.99",
+  "source": "@site/docs/tutorial-basics/create-a-document.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/docs/tutorial-basics/create-a-document",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Método de Venda de PLRs",
+    "permalink": "/docs/tutorial-basics/venda-plr"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/sobre-home-office",
+  "source": "@site/blog/2021-08-26-welcome/index.mdx",
+  "title": "Sobre o Home Office",
+  "description": "Trabalhar no conforto do lar tem se tornado uma realidade cada vez mais presente na vida de muitas pessoas. O home office, ou trabalho remoto, oferece uma série de vantagens, mas também apresenta seus desafios únicos. Neste blogpost, exploraremos as principais vantagens do home office, discutiremos os desafios que podem surgir ao trabalhar em casa e compartilharemos dicas valiosas para garantir o sucesso nesse ambiente.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "formattedDate": "August 26, 2021",
+  "tags": [
+    {
+      "label": "Home Office",
+      "permalink": "/blog/tags/home-office"
+    },
+    {
+      "label": "guia",
+      "permalink": "/blog/tags/guia"
+    },
+    {
+      "label": "dicas",
+      "permalink": "/blog/tags/dicas"
+    }
+  ],
+  "readingTime": 2.585,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "WorkFromHome Solutions",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/workfromhomesolutions",
+      "imageURL": "https://avatars.githubusercontent.com/u/137298140?v=4",
+      "key": "wfhs"
+    }
+  ],
+  "frontMatter": {
+    "slug": "sobre-home-office",
+    "authors": [
+      "wfhs"
+    ],
+    "title": "Sobre o Home Office",
+    "tags": [
+      "Home Office",
+      "guia",
+      "dicas"
+    ]
+  },
+  "nextItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}

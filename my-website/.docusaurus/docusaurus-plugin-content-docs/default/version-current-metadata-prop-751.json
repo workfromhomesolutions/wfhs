@@ -1,0 +1,142 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Sobre nós",
+        "href": "/docs/sobre-nos",
+        "docId": "sobre-nos"
+      },
+      {
+        "type": "category",
+        "label": "Pacotes de cursos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Método de Negócio online",
+            "href": "/docs/cursos/negocio-online",
+            "docId": "cursos/negocio-online"
+          },
+          {
+            "type": "link",
+            "label": "Método de Venda de PLRs",
+            "href": "/docs/cursos/venda-plr",
+            "docId": "cursos/venda-plr"
+          },
+          {
+            "type": "link",
+            "label": "Método técnicas de Home Office",
+            "href": "/docs/cursos/home-office",
+            "docId": "cursos/home-office"
+          }
+        ],
+        "href": "/docs/category/pacotes-de-cursos"
+      },
+      {
+        "type": "category",
+        "label": "Lista de e-Books",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "4 formas de lucrar com o ChatGPT",
+            "href": "/docs/ebooks/lucro-chatgpt",
+            "docId": "ebooks/lucro-chatgpt"
+          },
+          {
+            "type": "link",
+            "label": "Como realizar um Pitch de Vendas",
+            "href": "/docs/ebooks/pitch-vendas",
+            "docId": "ebooks/pitch-vendas"
+          },
+          {
+            "type": "link",
+            "label": "Os segredos do bitcoin revelados",
+            "href": "/docs/ebooks/segredos-bitcoin",
+            "docId": "ebooks/segredos-bitcoin"
+          },
+          {
+            "type": "link",
+            "label": "Perfil lucrativo em pesquisas",
+            "href": "/docs/ebooks/pesquisas-lucrativas",
+            "docId": "ebooks/pesquisas-lucrativas"
+          }
+        ],
+        "href": "/docs/category/lista-de-e-books"
+      },
+      {
+        "type": "link",
+        "label": "Política de privacidade",
+        "href": "/docs/politica-privacidade",
+        "docId": "politica-privacidade"
+      }
+    ]
+  },
+  "docs": {
+    "cursos/home-office": {
+      "id": "cursos/home-office",
+      "title": "Método técnicas de Home Office",
+      "description": "R$49.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "cursos/negocio-online": {
+      "id": "cursos/negocio-online",
+      "title": "Método de Negócio online",
+      "description": "R$24.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "cursos/venda-plr": {
+      "id": "cursos/venda-plr",
+      "title": "Método de Venda de PLRs",
+      "description": "R$34.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "ebooks/lucro-chatgpt": {
+      "id": "ebooks/lucro-chatgpt",
+      "title": "4 formas de lucrar com o ChatGPT",
+      "description": "R$4.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "ebooks/pesquisas-lucrativas": {
+      "id": "ebooks/pesquisas-lucrativas",
+      "title": "Perfil lucrativo em pesquisas",
+      "description": "R$9.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "ebooks/pitch-vendas": {
+      "id": "ebooks/pitch-vendas",
+      "title": "Como realizar um Pitch de Vendas",
+      "description": "R$9.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "ebooks/segredos-bitcoin": {
+      "id": "ebooks/segredos-bitcoin",
+      "title": "Os segredos do bitcoin revelados",
+      "description": "R$9.99",
+      "sidebar": "tutorialSidebar"
+    },
+    "politica-privacidade": {
+      "id": "politica-privacidade",
+      "title": "Política de privacidade",
+      "description": "Na WorkFromHome Solutions, estamos comprometidos em proteger a privacidade de",
+      "sidebar": "tutorialSidebar"
+    },
+    "sobre-nos": {
+      "id": "sobre-nos",
+      "title": "Sobre nós",
+      "description": "Bem-vindo a WorkFromHome Solutions! Somos uma equipe de especialistas dedicados",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

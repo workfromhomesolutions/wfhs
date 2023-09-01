@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/negocio-online",
+  "id": "tutorial-basics/negocio-online",
+  "title": "Método de Negócio online",
+  "description": "R$24.99",
+  "source": "@site/docs/tutorial-basics/negocio-online.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/negocio-online",
+  "permalink": "/docs/tutorial-basics/negocio-online",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pacotes de cursos",
+    "permalink": "/docs/category/pacotes-de-cursos"
+  },
+  "next": {
+    "title": "Método de Venda de PLRs",
+    "permalink": "/docs/tutorial-basics/venda-plr"
+  }
+}

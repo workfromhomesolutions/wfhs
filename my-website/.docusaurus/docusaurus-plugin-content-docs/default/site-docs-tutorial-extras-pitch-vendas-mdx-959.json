@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/pitch-vendas",
+  "id": "tutorial-extras/pitch-vendas",
+  "title": "Como realizar um Pitch de Vendas",
+  "description": "R$9.99",
+  "source": "@site/docs/tutorial-extras/pitch-vendas.mdx",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/pitch-vendas",
+  "permalink": "/docs/tutorial-extras/pitch-vendas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4 formas de lucrar com o ChatGPT",
+    "permalink": "/docs/tutorial-extras/lucro-chatgpt"
+  },
+  "next": {
+    "title": "Os segredos do bitcoin revelados",
+    "permalink": "/docs/tutorial-extras/segredos-bitcoin"
+  }
+}

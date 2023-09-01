@@ -1,0 +1,486 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\lauany.silva\\Documents\\new revenue\\Site\\my-website\\sidebars.js",
+          "contentPath": "C:\\Users\\lauany.silva\\Documents\\new revenue\\Site\\my-website\\docs",
+          "contentPathLocalized": "C:\\Users\\lauany.silva\\Documents\\new revenue\\Site\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "cursos/home-office",
+              "id": "cursos/home-office",
+              "title": "Método técnicas de Home Office",
+              "description": "R$49.99",
+              "source": "@site/docs/cursos/home-office.mdx",
+              "sourceDirName": "cursos",
+              "slug": "/cursos/home-office",
+              "permalink": "/docs/cursos/home-office",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Método de Venda de PLRs",
+                "permalink": "/docs/cursos/venda-plr"
+              },
+              "next": {
+                "title": "Lista de e-Books",
+                "permalink": "/docs/category/lista-de-e-books"
+              }
+            },
+            {
+              "unversionedId": "cursos/negocio-online",
+              "id": "cursos/negocio-online",
+              "title": "Método de Negócio online",
+              "description": "R$24.99",
+              "source": "@site/docs/cursos/negocio-online.mdx",
+              "sourceDirName": "cursos",
+              "slug": "/cursos/negocio-online",
+              "permalink": "/docs/cursos/negocio-online",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pacotes de cursos",
+                "permalink": "/docs/category/pacotes-de-cursos"
+              },
+              "next": {
+                "title": "Método de Venda de PLRs",
+                "permalink": "/docs/cursos/venda-plr"
+              }
+            },
+            {
+              "unversionedId": "cursos/venda-plr",
+              "id": "cursos/venda-plr",
+              "title": "Método de Venda de PLRs",
+              "description": "R$34.99",
+              "source": "@site/docs/cursos/venda-plr.mdx",
+              "sourceDirName": "cursos",
+              "slug": "/cursos/venda-plr",
+              "permalink": "/docs/cursos/venda-plr",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Método de Negócio online",
+                "permalink": "/docs/cursos/negocio-online"
+              },
+              "next": {
+                "title": "Método técnicas de Home Office",
+                "permalink": "/docs/cursos/home-office"
+              }
+            },
+            {
+              "unversionedId": "ebooks/lucro-chatgpt",
+              "id": "ebooks/lucro-chatgpt",
+              "title": "4 formas de lucrar com o ChatGPT",
+              "description": "R$4.99",
+              "source": "@site/docs/ebooks/lucro-chatgpt.mdx",
+              "sourceDirName": "ebooks",
+              "slug": "/ebooks/lucro-chatgpt",
+              "permalink": "/docs/ebooks/lucro-chatgpt",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lista de e-Books",
+                "permalink": "/docs/category/lista-de-e-books"
+              },
+              "next": {
+                "title": "Como realizar um Pitch de Vendas",
+                "permalink": "/docs/ebooks/pitch-vendas"
+              }
+            },
+            {
+              "unversionedId": "ebooks/pesquisas-lucrativas",
+              "id": "ebooks/pesquisas-lucrativas",
+              "title": "Perfil lucrativo em pesquisas",
+              "description": "R$9.99",
+              "source": "@site/docs/ebooks/pesquisas-lucrativas.mdx",
+              "sourceDirName": "ebooks",
+              "slug": "/ebooks/pesquisas-lucrativas",
+              "permalink": "/docs/ebooks/pesquisas-lucrativas",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Os segredos do bitcoin revelados",
+                "permalink": "/docs/ebooks/segredos-bitcoin"
+              },
+              "next": {
+                "title": "Política de privacidade",
+                "permalink": "/docs/politica-privacidade"
+              }
+            },
+            {
+              "unversionedId": "ebooks/pitch-vendas",
+              "id": "ebooks/pitch-vendas",
+              "title": "Como realizar um Pitch de Vendas",
+              "description": "R$9.99",
+              "source": "@site/docs/ebooks/pitch-vendas.mdx",
+              "sourceDirName": "ebooks",
+              "slug": "/ebooks/pitch-vendas",
+              "permalink": "/docs/ebooks/pitch-vendas",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4 formas de lucrar com o ChatGPT",
+                "permalink": "/docs/ebooks/lucro-chatgpt"
+              },
+              "next": {
+                "title": "Os segredos do bitcoin revelados",
+                "permalink": "/docs/ebooks/segredos-bitcoin"
+              }
+            },
+            {
+              "unversionedId": "ebooks/segredos-bitcoin",
+              "id": "ebooks/segredos-bitcoin",
+              "title": "Os segredos do bitcoin revelados",
+              "description": "R$9.99",
+              "source": "@site/docs/ebooks/segredos-bitcoin.mdx",
+              "sourceDirName": "ebooks",
+              "slug": "/ebooks/segredos-bitcoin",
+              "permalink": "/docs/ebooks/segredos-bitcoin",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Como realizar um Pitch de Vendas",
+                "permalink": "/docs/ebooks/pitch-vendas"
+              },
+              "next": {
+                "title": "Perfil lucrativo em pesquisas",
+                "permalink": "/docs/ebooks/pesquisas-lucrativas"
+              }
+            },
+            {
+              "unversionedId": "politica-privacidade",
+              "id": "politica-privacidade",
+              "title": "Política de privacidade",
+              "description": "Na WorkFromHome Solutions, estamos comprometidos em proteger a privacidade de",
+              "source": "@site/docs/politica-privacidade.mdx",
+              "sourceDirName": ".",
+              "slug": "/politica-privacidade",
+              "permalink": "/docs/politica-privacidade",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Perfil lucrativo em pesquisas",
+                "permalink": "/docs/ebooks/pesquisas-lucrativas"
+              }
+            },
+            {
+              "unversionedId": "sobre-nos",
+              "id": "sobre-nos",
+              "title": "Sobre nós",
+              "description": "Bem-vindo a WorkFromHome Solutions! Somos uma equipe de especialistas dedicados",
+              "source": "@site/docs/sobre-nos.mdx",
+              "sourceDirName": ".",
+              "slug": "/sobre-nos",
+              "permalink": "/docs/sobre-nos",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Pacotes de cursos",
+                "permalink": "/docs/category/pacotes-de-cursos"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "sobre-nos"
+              },
+              {
+                "type": "category",
+                "label": "Pacotes de cursos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "cursos/negocio-online"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cursos/venda-plr"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cursos/home-office"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/pacotes-de-cursos",
+                  "permalink": "/docs/category/pacotes-de-cursos"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lista de e-Books",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ebooks/lucro-chatgpt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ebooks/pitch-vendas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ebooks/segredos-bitcoin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ebooks/pesquisas-lucrativas"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/lista-de-e-books",
+                  "permalink": "/docs/category/lista-de-e-books"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "politica-privacidade"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "sobre-home-office",
+          "metadata": {
+            "permalink": "/blog/sobre-home-office",
+            "source": "@site/blog/index.mdx",
+            "title": "Sobre o Home Office",
+            "description": "Trabalhar no conforto do lar tem se tornado uma realidade cada vez mais presente na vida de muitas pessoas. O home office, ou trabalho remoto, oferece uma série de vantagens, mas também apresenta seus desafios únicos. Neste blogpost, exploraremos as principais vantagens do home office, discutiremos os desafios que podem surgir ao trabalhar em casa e compartilharemos dicas valiosas para garantir o sucesso nesse ambiente.",
+            "date": "2023-06-21T12:55:08.714Z",
+            "formattedDate": "June 21, 2023",
+            "tags": [
+              {
+                "label": "Home Office",
+                "permalink": "/blog/tags/home-office"
+              },
+              {
+                "label": "guia",
+                "permalink": "/blog/tags/guia"
+              },
+              {
+                "label": "dicas",
+                "permalink": "/blog/tags/dicas"
+              }
+            ],
+            "readingTime": 2.675,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "WorkFromHome Solutions",
+                "title": "Empreendedorismo digital",
+                "url": "https://github.com/workfromhomesolutions",
+                "imageURL": "https://avatars.githubusercontent.com/u/137298140?v=4",
+                "key": "wfhs"
+              }
+            ],
+            "frontMatter": {
+              "slug": "sobre-home-office",
+              "authors": [
+                "wfhs"
+              ],
+              "title": "Sobre o Home Office",
+              "tags": [
+                "Home Office",
+                "guia",
+                "dicas"
+              ]
+            }
+          },
+          "content": "Trabalhar no conforto do lar tem se tornado uma realidade cada vez mais presente na vida de muitas pessoas. O home office, ou trabalho remoto, oferece uma série de vantagens, mas também apresenta seus desafios únicos. Neste blogpost, exploraremos as principais vantagens do home office, discutiremos os desafios que podem surgir ao trabalhar em casa e compartilharemos dicas valiosas para garantir o sucesso nesse ambiente.\n![alt-text](./img/homeOffice0.jpg#rounded)\n\n## Vantagens do Home Office\n\n* Flexibilidade de horários: Tenha o controle sobre sua agenda e aproveite a liberdade de adaptar seus horários de trabalho de acordo com suas necessidades.\n* Maior conforto e redução de estresse: Trabalhe em um ambiente familiar e personalize seu espaço de trabalho para aumentar o conforto e a produtividade.\n* Economia de tempo e dinheiro: Elimine deslocamentos diários, reduza os gastos com transporte e alimentação fora de casa.\n* Autonomia e liberdade: Tenha mais controle sobre suas tarefas, tome decisões independentes e desenvolva um senso de autodisciplina.\n* Maior equilíbrio entre vida pessoal e profissional: Tenha a flexibilidade de cuidar de assuntos pessoais e aproveitar momentos com a família enquanto mantém sua produtividade.\n\n![alt-text](./img/homeOffice3.jpg#rounded)\n\n## Desafios do Home Office\n\n* Distrações domésticas: É preciso lidar com distrações como tarefas domésticas, familiares e pets. Estabelecer uma rotina e um ambiente de trabalho adequado são fundamentais.\n* Isolamento social: A falta de interação com colegas de trabalho pode ser desafiadora. É importante buscar formas de manter conexões sociais, seja por meio de videoconferências, grupos online ou atividades fora do trabalho.\n* Autodisciplina: Trabalhar em casa exige autodisciplina para evitar procrastinação e manter o foco nas tarefas. Estabeleça horários definidos e separe um espaço dedicado exclusivamente ao trabalho.\n\n![alt-text](./img/homeOffice.jpg#rounded)\n\n\n## Dicas para o Sucesso\n\n1. Crie uma rotina: Estabeleça horários regulares para trabalhar, fazer pausas e encerrar o expediente.\n2. Organize seu espaço de trabalho: Tenha um ambiente limpo, organizado e livre de distrações.\n3. Defina metas e objetivos claros: Estabeleça metas diárias ou semanais para manter o foco e medir seu progresso.\n4. Comunique-se com a equipe: Mantenha uma comunicação clara e regular com colegas e gestores por meio de ferramentas de comunicação online.\n5. Faça pausas ativas: Levante-se, estique-se e faça pequenas pausas para descansar a mente e o corpo.\n6. Cuide da sua saúde mental e bem-estar: Pratique atividades que promovam o equilíbrio e o bem-estar, como exercícios físicos, meditação ou hobbies.\n7. Mantenha-se atualizado: Aproveite cursos online e recursos de aprendizado para aprimorar suas habilidades e se manter atualizado com as melhores práticas do trabalho remoto.\n\nAgora que você conhece as vantagens, desafios e dicas para o sucesso no home office, está pronto para abraçar essa modalidade de trabalho e aproveitar todos os seus benefícios. Descubra o equilíbrio entre produtividade e qualidade de vida, e seja bem-sucedido no ambiente de trabalho remoto!\n\n![alt-text](./img/homeOffice2.jpg#rounded)\n\n<hr/>\nGostaria de se aprofundar ainda mais no assunto? Acesse nosso curso online sobre Home Office Produtivo e aprenda estratégias comprovadas para ter sucesso trabalhando de casa. Inscreva-se agora e comece a transformar sua carreira!<br />\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_Jt-axNebRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<hr/>\nReferências:\n\n[Inserir referências de dados e estudos sobre o home office]\n[Call to action: Inscreva-se agora]"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "sobre-home-office"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/home-office": {
+          "label": "Home Office",
+          "items": [
+            "sobre-home-office"
+          ],
+          "permalink": "/blog/tags/home-office",
+          "pages": [
+            {
+              "items": [
+                "sobre-home-office"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/home-office",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/guia": {
+          "label": "guia",
+          "items": [
+            "sobre-home-office"
+          ],
+          "permalink": "/blog/tags/guia",
+          "pages": [
+            {
+              "items": [
+                "sobre-home-office"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/guia",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/dicas": {
+          "label": "dicas",
+          "items": [
+            "sobre-home-office"
+          ],
+          "permalink": "/blog/tags/dicas",
+          "pages": [
+            {
+              "items": [
+                "sobre-home-office"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/dicas",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

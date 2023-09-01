@@ -1,0 +1,22 @@
+{
+  "unversionedId": "policy",
+  "id": "policy",
+  "title": "Política de privacidade",
+  "description": "Na WorkFromHome Solutions, estamos comprometidos em proteger a privacidade de",
+  "source": "@site/docs/policy.mdx",
+  "sourceDirName": ".",
+  "slug": "/policy",
+  "permalink": "/docs/policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Como ter sucesso em pesquisas remuneradas",
+    "permalink": "/docs/tutorial-extras/pesquisas-lucrativas"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/lucro-chatgpt",
+  "id": "tutorial-extras/lucro-chatgpt",
+  "title": "4 formas de lucrar com o ChatGPT",
+  "description": "R$4.99",
+  "source": "@site/docs/tutorial-extras/lucro-chatgpt.mdx",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/lucro-chatgpt",
+  "permalink": "/docs/tutorial-extras/lucro-chatgpt",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lista de e-Books",
+    "permalink": "/docs/category/lista-de-e-books"
+  },
+  "next": {
+    "title": "Como realizar um Pitch de Vendas",
+    "permalink": "/docs/tutorial-extras/pitch-vendas"
+  }
+}

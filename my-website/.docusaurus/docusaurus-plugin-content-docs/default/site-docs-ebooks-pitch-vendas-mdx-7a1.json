@@ -1,0 +1,26 @@
+{
+  "unversionedId": "ebooks/pitch-vendas",
+  "id": "ebooks/pitch-vendas",
+  "title": "Como realizar um Pitch de Vendas",
+  "description": "R$9.99",
+  "source": "@site/docs/ebooks/pitch-vendas.mdx",
+  "sourceDirName": "ebooks",
+  "slug": "/ebooks/pitch-vendas",
+  "permalink": "/docs/ebooks/pitch-vendas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4 formas de lucrar com o ChatGPT",
+    "permalink": "/docs/ebooks/lucro-chatgpt"
+  },
+  "next": {
+    "title": "Os segredos do bitcoin revelados",
+    "permalink": "/docs/ebooks/segredos-bitcoin"
+  }
+}

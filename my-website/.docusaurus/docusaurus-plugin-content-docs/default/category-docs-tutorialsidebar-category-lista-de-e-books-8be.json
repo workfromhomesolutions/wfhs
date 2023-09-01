@@ -1,0 +1,15 @@
+{
+  "title": "Lista de e-Books",
+  "slug": "/category/lista-de-e-books",
+  "permalink": "/docs/category/lista-de-e-books",
+  "navigation": {
+    "previous": {
+      "title": "Método técnicas de Home Office",
+      "permalink": "/docs/cursos/home-office"
+    },
+    "next": {
+      "title": "4 formas de lucrar com o ChatGPT",
+      "permalink": "/docs/ebooks/lucro-chatgpt"
+    }
+  }
+}

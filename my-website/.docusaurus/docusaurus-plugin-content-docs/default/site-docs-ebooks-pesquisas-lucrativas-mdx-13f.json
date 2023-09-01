@@ -1,0 +1,26 @@
+{
+  "unversionedId": "ebooks/pesquisas-lucrativas",
+  "id": "ebooks/pesquisas-lucrativas",
+  "title": "Perfil lucrativo em pesquisas",
+  "description": "R$9.99",
+  "source": "@site/docs/ebooks/pesquisas-lucrativas.mdx",
+  "sourceDirName": "ebooks",
+  "slug": "/ebooks/pesquisas-lucrativas",
+  "permalink": "/docs/ebooks/pesquisas-lucrativas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Os segredos do bitcoin revelados",
+    "permalink": "/docs/ebooks/segredos-bitcoin"
+  },
+  "next": {
+    "title": "Política de privacidade",
+    "permalink": "/docs/politica-privacidade"
+  }
+}

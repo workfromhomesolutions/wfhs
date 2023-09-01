@@ -1,0 +1,15 @@
+{
+  "title": "e-Books",
+  "slug": "/category/e-books",
+  "permalink": "/docs/category/e-books",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

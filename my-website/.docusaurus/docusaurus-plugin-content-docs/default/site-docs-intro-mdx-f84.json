@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Sobre nós",
+  "description": "Bem-vindo a WorkFromHome Solutions! Somos uma equipe de especialistas dedicados",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Pacotes de cursos",
+    "permalink": "/docs/category/pacotes-de-cursos"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "/__docusaurus/debug-7e2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    }
+  },
+  "/__docusaurus/debug/config-338": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    }
+  },
+  "/__docusaurus/debug/content-d84": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-709": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    }
+  },
+  "/__docusaurus/debug/metadata-ac1": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    }
+  },
+  "/__docusaurus/debug/registry-6de": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    }
+  },
+  "/__docusaurus/debug/routes-638": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+    }
+  },
+  "/blog-3f0": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-844-f39"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-727": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/sobre-home-office-688": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-sobre-home-officedd-4-d7f"
+  },
+  "/blog/tags-8d8": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/dicas-0d2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-844-f39"
+      }
+    ],
+    "tag": "tag---blog-tags-dicasa-5-f-1bc",
+    "listMetadata": "listMetadata---blog-tags-dicas-9-fc-fe2"
+  },
+  "/blog/tags/guia-191": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-844-f39"
+      }
+    ],
+    "tag": "tag---blog-tags-guia-329-578",
+    "listMetadata": "listMetadata---blog-tags-guiafc-8-706"
+  },
+  "/blog/tags/home-office-281": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogb-9-e-bd5"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-844-f39"
+      }
+    ],
+    "tag": "tag---blog-tags-home-officee-2-d-17c",
+    "listMetadata": "listMetadata---blog-tags-home-office-067-f5d"
+  },
+  "/markdown-page-64a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-149-c87"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-05b": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-789-c3d"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/lista-de-e-books-415": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-lista-de-e-books-7-cc-1e9"
+  },
+  "/docs/category/pacotes-de-cursos-e56": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-pacotes-de-cursosb-96-9b5"
+  },
+  "/docs/cursos/home-office-2a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cursos-home-office-0-a-2-4d6"
+  },
+  "/docs/cursos/negocio-online-4e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cursos-negocio-online-14-f-7d3"
+  },
+  "/docs/cursos/venda-plr-f68": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cursos-venda-plrf-86-cbf"
+  },
+  "/docs/ebooks/lucro-chatgpt-564": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ebooks-lucro-chatgpt-745-570"
+  },
+  "/docs/ebooks/pesquisas-lucrativas-239": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ebooks-pesquisas-lucrativas-13-f-15f"
+  },
+  "/docs/ebooks/pitch-vendas-ad7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ebooks-pitch-vendas-7-a-1-398"
+  },
+  "/docs/ebooks/segredos-bitcoin-41c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ebooks-segredos-bitcoinb-02-a8a"
+  },
+  "/docs/politica-privacidade-8c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-politica-privacidade-9-d-9-cd5"
+  },
+  "/docs/sobre-nos-116": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sobre-nosf-89-744"
+  },
+  "/-ee5": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-149-c87"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

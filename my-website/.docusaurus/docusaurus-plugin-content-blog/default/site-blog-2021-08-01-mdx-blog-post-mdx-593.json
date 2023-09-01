@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/mdx-blog-post",
+  "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+  "title": "MDX Blog Post",
+  "description": "\"O home office não é apenas uma tendência, é uma revolução no modo como trabalhamos.\"",
+  "date": "2021-08-01T00:00:00.000Z",
+  "formattedDate": "August 1, 2021",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.42,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "WorkFromHome Solutions",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/workfromhomesolutions",
+      "imageURL": "https://avatars.githubusercontent.com/u/137298140?v=4",
+      "key": "wfhs"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "authors": [
+      "wfhs"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Sobre o Home Office",
+    "permalink": "/blog/sobre-home-office"
+  }
+}
