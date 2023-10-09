@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="name='p:domain_verify' content='47bff4edec16c6dfc4c828b9dc1605d4'">
+      p:domain_verify="47bff4edec16c6dfc4c828b9dc1605d4">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
