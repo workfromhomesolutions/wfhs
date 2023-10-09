@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Aprenda a trabalhar de casa com eficiência',
-  tagline: 'Nós ajudamos profissionais a desenvolver habilidades para trabalhar de casa com eficiência',
+  title: 'WorkFromHome Solutions',
+  tagline: 'Aprenda a trabalhar de casa com eficiência, pois nós ajudamos profissionais a desenvolver habilidades para trabalhar de casa.,
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -32,6 +32,7 @@ const config = {
   stylesheets: [
     "https://fonts.googleapis.com/icon?family=Material+Icons",
   ],
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -58,6 +59,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'p:domain_verify', content: '47bff4edec16c6dfc4c828b9dc1605d4'}],
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg#rounded',
       navbar: {
