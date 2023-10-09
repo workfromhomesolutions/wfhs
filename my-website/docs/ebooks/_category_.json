@@ -2,6 +2,7 @@
   "label": "Lista de e-Books",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Inicie sua trajetória de aprendizado com livros digitais elaborados por especialistas para ler em qualquer lugar."
   }
 }
