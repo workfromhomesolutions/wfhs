@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      content="47bff4edec16c6dfc4c828b9dc1605d4">
+      description="Portal da WorkFromHome Solutions">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
