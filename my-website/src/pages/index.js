@@ -26,7 +26,7 @@ function HomepageHeader() {
   );
 }
 
-function HomepageCatalogue() {
+/*function HomepageCatalogue() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -36,7 +36,7 @@ function HomepageCatalogue() {
       </div>
     </header>
   );
-}
+}*/
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
@@ -47,7 +47,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <HomepageCatalogue />
+        //<HomepageCatalogue />
       </main>
     </Layout>
   );
