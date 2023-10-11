@@ -26,18 +26,6 @@ function HomepageHeader() {
   );
 }
 
-/*function HomepageCatalogue() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <a href="url"><img src="../../static/img/undraw_docusaurus_mountain.svg" alt="Avatar" style="width:100%"></a>
-    <a href="url"><img src="../../static/img/undraw_docusaurus_mountain.svg" alt="Avatar" style="width:100%"></a>
-      </div>
-    </header>
-  );
-}*/
-
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -47,7 +35,6 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        //<HomepageCatalogue />
       </main>
     </Layout>
   );
