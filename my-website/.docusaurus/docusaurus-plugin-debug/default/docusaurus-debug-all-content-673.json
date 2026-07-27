@@ -322,73 +322,14 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
-          "id": "planilha-de-investimentos",
-          "metadata": {
-            "permalink": "/blog/planilha-de-investimentos",
-            "source": "@site/blog/investimentos.mdx",
-            "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
-            "description": "Aprenda como organizar sua carteira utilizando uma planilha automatizada de investimentos. Acompanhe rentabilidade, dividendos, patrimônio e evolução dos seus ativos.",
-            "date": "2026-07-22T20:44:09.162Z",
-            "formattedDate": "July 22, 2026",
-            "tags": [
-              {
-                "label": "Investimentos",
-                "permalink": "/blog/tags/investimentos"
-              },
-              {
-                "label": "Planilhas",
-                "permalink": "/blog/tags/planilhas"
-              },
-              {
-                "label": "Educação Financeira",
-                "permalink": "/blog/tags/educacao-financeira"
-              },
-              {
-                "label": "Carteira de Investimentos",
-                "permalink": "/blog/tags/carteira-de-investimentos"
-              }
-            ],
-            "readingTime": 2.34,
-            "hasTruncateMarker": false,
-            "authors": [
-              {
-                "name": "WorkFromHome Solutions",
-                "title": "Empreendedorismo digital",
-                "url": "https://github.com/workfromhomesolutions",
-                "imageURL": "https://avatars.githubusercontent.com/u/137298140?v=4",
-                "key": "wfhs"
-              }
-            ],
-            "frontMatter": {
-              "slug": "planilha-de-investimentos",
-              "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
-              "description": "Aprenda como organizar sua carteira utilizando uma planilha automatizada de investimentos. Acompanhe rentabilidade, dividendos, patrimônio e evolução dos seus ativos.",
-              "tags": [
-                "Investimentos",
-                "Planilhas",
-                "Educação Financeira",
-                "Carteira de Investimentos"
-              ],
-              "authors": [
-                "wfhs"
-              ]
-            },
-            "nextItem": {
-              "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
-              "permalink": "/blog/planilha-de-gastos"
-            }
-          },
-          "content": "Investir é apenas uma parte do processo para construir patrimônio. Tão importante quanto realizar aportes é acompanhar o desempenho da carteira, controlar dividendos, analisar a distribuição dos ativos e identificar oportunidades de rebalanceamento.\r\n\r\nUma *planilha automatizada de investimentos* permite visualizar todas essas informações em um único lugar, facilitando a tomada de decisões e reduzindo o tempo gasto com controles manuais.\r\n\r\nNeste guia você aprenderá como funciona uma planilha de investimentos, quais indicadores acompanhar e por que uma ferramenta automatizada pode transformar sua organização financeira.\r\n\r\n## O que é uma planilha de investimentos?\r\n\r\nUma planilha de investimentos é uma ferramenta utilizada para registrar todas as compras, vendas, dividendos e demais movimentações da sua carteira.\r\n\r\nAlém de organizar os dados, uma planilha inteligente pode calcular automaticamente indicadores importantes, permitindo acompanhar a evolução do patrimônio ao longo do tempo.\r\n\r\nEla pode ser utilizada para diversos tipos de ativos, como:\r\n\r\n- Ações\r\n- Fundos Imobiliários (FIIs)\r\n- ETFs\r\n- BDRs\r\n- Renda Fixa\r\n- Criptomoedas\r\n- Investimentos internacionais\r\n\r\n## Por que acompanhar sua carteira?\r\n\r\nMuitos investidores concentram esforços na escolha dos ativos, mas deixam de acompanhar a evolução dos resultados.\r\n\r\nUm bom controle permite:\r\n\r\n- Conhecer o patrimônio atualizado.\r\n- Acompanhar a rentabilidade da carteira.\r\n- Controlar dividendos recebidos.\r\n- Identificar excesso de concentração em determinados setores.\r\n- Planejar novos aportes.\r\n- Facilitar a declaração do Imposto de Renda.\r\n\r\nQuanto mais informações estiverem organizadas, melhores tendem a ser as decisões de investimento.\r\n\r\n## O que uma planilha automatizada faz?\r\n\r\nUma planilha moderna pode automatizar diversas tarefas que normalmente seriam feitas manualmente.\r\n\r\nEntre elas:\r\n\r\n- Atualização automática de preços.\r\n- Cálculo do preço médio.\r\n- Controle de aportes.\r\n- Distribuição por classe de investimento.\r\n- Gráficos.\r\n\r\nEssa automação reduz erros e economiza tempo.\r\n\r\n\r\n## Benefícios\r\n\r\n| Benefício | Resultado |\r\n|------------|-----------|\r\n| Organização | Todas as informações em um único lugar. |\r\n| Economia de tempo | Automatização de cálculos. |\r\n| Precisão | Redução de erros manuais. |\r\n| Planejamento | Melhor controle dos objetivos financeiros. |\r\n\r\nMesmo investidores iniciantes podem se beneficiar de um acompanhamento estruturado.\r\n\r\n## Vale a pena utilizar uma planilha automatizada?\r\n\r\nSim. Uma planilha automatizada oferece muito mais controle e praticidade do que registros manuais, principalmente para quem possui uma carteira diversificada.\r\n\r\nEla facilita o acompanhamento dos investimentos, reduz o tempo gasto com cálculos e fornece informações importantes para rebalancear a carteira e acompanhar seus objetivos financeiros.\r\n\r\n## Conclusão\r\n\r\nUma planilha automatizada é uma excelente aliada para investidores que desejam organizar sua carteira, acompanhar a evolução do patrimônio e tomar decisões baseadas em dados.\r\n\r\nIndependentemente do valor investido, criar o hábito de monitorar seus ativos é um passo importante para construir riqueza no longo prazo.\r\n\r\n<hr/>\r\nGostaria de ajuda para investir melhor? Acesse nossa <a href=\"https://kiwify.app/BqqjYkN\">Planilha de investimentos</a> e aprenda a investir de maneira inteligente. <br />\r\n<hr/>"
-        },
-        {
           "id": "planilha-de-gastos",
           "metadata": {
             "permalink": "/blog/planilha-de-gastos",
             "source": "@site/blog/gastos.mdx",
             "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
             "description": "Aprenda como controlar receitas e despesas utilizando uma planilha de gastos. Descubra como organizar seu orçamento, evitar dívidas e alcançar seus objetivos financeiros.",
-            "date": "2026-07-22T20:38:51.819Z",
-            "formattedDate": "July 22, 2026",
+            "date": "2026-07-27T15:51:26.000Z",
+            "formattedDate": "July 27, 2026",
             "tags": [
               {
                 "label": "Finanças Pessoais",
@@ -432,16 +373,75 @@
                 "wfhs"
               ]
             },
-            "prevItem": {
+            "nextItem": {
               "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
               "permalink": "/blog/planilha-de-investimentos"
+            }
+          },
+          "content": "Controlar o dinheiro não significa apenas saber quanto você ganha, mas principalmente entender para onde ele está indo. Muitas pessoas enfrentam dificuldades financeiras não por falta de renda, mas pela ausência de um planejamento adequado.\r\n\r\nUma *planilha de gastos* é uma das ferramentas mais simples e eficientes para organizar o orçamento, identificar desperdícios e planejar objetivos como quitar dívidas, montar uma reserva de emergência ou investir.\r\n\r\nNeste guia você aprenderá como funciona uma planilha financeira, quais informações registrar e como utilizá-la para melhorar sua saúde financeira.\r\n\r\n## O que é uma planilha de gastos?\r\n\r\nUma planilha de gastos é uma ferramenta utilizada para registrar todas as entradas e saídas de dinheiro durante um determinado período.\r\n\r\nEla permite visualizar quanto você recebe, quanto gasta e quanto consegue economizar, facilitando decisões financeiras mais conscientes.\r\n\r\nO controle pode ser realizado utilizando Excel, Google Planilhas ou aplicativos especializados.\r\n\r\n## Por que controlar os gastos?\r\n\r\nSem acompanhar suas despesas, torna-se difícil identificar excessos e criar um planejamento financeiro eficiente.\r\n\r\nAo registrar todas as movimentações você consegue:\r\n\r\n- Saber exatamente para onde seu dinheiro está indo.\r\n- Identificar gastos desnecessários.\r\n- Evitar atrasos em contas.\r\n- Planejar compras importantes.\r\n- Criar uma reserva de emergência.\r\n- Aumentar sua capacidade de investimento.\r\n\r\nO primeiro passo para enriquecer é conhecer sua realidade financeira.\r\n\r\n## Como montar uma planilha financeira\r\n\r\nUma planilha eficiente deve conter informações como:\r\n\r\n- Salário e outras receitas.\r\n- Gastos fixos.\r\n- Gastos variáveis.\r\n- Dívidas.\r\n- Investimentos.\r\n- Objetivos financeiros.\r\n- Saldo disponível.\r\n\r\nOrganizar essas informações mensalmente facilita o acompanhamento da evolução do seu patrimônio.\r\n\r\n## Categorias recomendadas\r\n\r\n| Categoria | Exemplos |\r\n|------------|----------|\r\n| Moradia | Aluguel, condomínio, energia. |\r\n| Alimentação | Supermercado e restaurantes. |\r\n| Transporte | Combustível, transporte público. |\r\n| Saúde | Plano de saúde, medicamentos. |\r\n| Educação | Cursos, livros, mensalidades. |\r\n| Lazer | Cinema, viagens, assinaturas. |\r\n| Investimentos | Aportes e reserva de emergência. |\r\n\r\nSeparar as despesas por categoria ajuda a identificar onde existem oportunidades de economia.\r\n\r\n## Vantagens\r\n\r\n| Benefício | Resultado |\r\n|------------|-----------|\r\n| Organização | Controle completo das finanças. |\r\n| Planejamento | Facilidade para atingir metas. |\r\n| Economia | Identificação de desperdícios. |\r\n| Segurança | Melhor preparação para imprevistos. |\r\n\r\nMesmo uma planilha simples já pode fazer grande diferença no controle financeiro.\r\n\r\n## Erros mais comuns\r\n\r\nEvite cometer estes erros:\r\n\r\n- Registrar apenas parte das despesas.\r\n- Esquecer pequenos gastos do dia a dia.\r\n- Não atualizar a planilha regularmente.\r\n- Misturar gastos pessoais e profissionais.\r\n- Não definir metas financeiras.\r\n\r\nA disciplina é mais importante do que utilizar uma ferramenta complexa.\r\n\r\n## Ferramentas para organizar as finanças\r\n\r\nAlém das planilhas tradicionais, você pode utilizar:\r\n\r\n- Google Planilhas.\r\n- Microsoft Excel.\r\n- Aplicativos de controle financeiro.\r\n- Dashboards personalizados.\r\n- Calculadoras financeiras online.\r\n\r\nEscolha a ferramenta que melhor se adapta à sua rotina e mantenha os registros sempre atualizados.\r\n\r\n## Vale a pena usar uma planilha?\r\n\r\nSim. Mesmo com diversos aplicativos disponíveis, as planilhas continuam sendo uma excelente alternativa por oferecerem flexibilidade, personalização e total controle sobre os dados.\r\n\r\nAlém disso, permitem criar gráficos, acompanhar a evolução do patrimônio e adaptar o controle conforme suas necessidades.\r\n\r\n## Conclusão\r\n\r\nUma planilha de gastos é uma ferramenta indispensável para quem deseja organizar as finanças, reduzir desperdícios e alcançar objetivos financeiros de forma mais rápida.\r\n\r\nO mais importante não é utilizar a planilha mais sofisticada, mas criar o hábito de registrar receitas e despesas regularmente. Com disciplina e planejamento, fica muito mais fácil economizar, investir e conquistar estabilidade financeira.\r\n\r\n<hr/>\r\nGostaria de ajuda para controlar seus gastos? Acesse nossa <a href=\"https://kiwify.app/BqqjYkN\">Planilha de controle de gastos</a> e aprenda a gerenciar suas finanças pessoais. <br />\r\n<hr/>"
+        },
+        {
+          "id": "planilha-de-investimentos",
+          "metadata": {
+            "permalink": "/blog/planilha-de-investimentos",
+            "source": "@site/blog/investimentos.mdx",
+            "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
+            "description": "Aprenda como organizar sua carteira utilizando uma planilha automatizada de investimentos. Acompanhe rentabilidade, dividendos, patrimônio e evolução dos seus ativos.",
+            "date": "2026-07-27T15:51:26.000Z",
+            "formattedDate": "July 27, 2026",
+            "tags": [
+              {
+                "label": "Investimentos",
+                "permalink": "/blog/tags/investimentos"
+              },
+              {
+                "label": "Planilhas",
+                "permalink": "/blog/tags/planilhas"
+              },
+              {
+                "label": "Educação Financeira",
+                "permalink": "/blog/tags/educacao-financeira"
+              },
+              {
+                "label": "Carteira de Investimentos",
+                "permalink": "/blog/tags/carteira-de-investimentos"
+              }
+            ],
+            "readingTime": 2.34,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "WorkFromHome Solutions",
+                "title": "Empreendedorismo digital",
+                "url": "https://github.com/workfromhomesolutions",
+                "imageURL": "https://avatars.githubusercontent.com/u/137298140?v=4",
+                "key": "wfhs"
+              }
+            ],
+            "frontMatter": {
+              "slug": "planilha-de-investimentos",
+              "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
+              "description": "Aprenda como organizar sua carteira utilizando uma planilha automatizada de investimentos. Acompanhe rentabilidade, dividendos, patrimônio e evolução dos seus ativos.",
+              "tags": [
+                "Investimentos",
+                "Planilhas",
+                "Educação Financeira",
+                "Carteira de Investimentos"
+              ],
+              "authors": [
+                "wfhs"
+              ]
+            },
+            "prevItem": {
+              "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
+              "permalink": "/blog/planilha-de-gastos"
             },
             "nextItem": {
               "title": "Como Criar um eCommerce de Sucesso",
               "permalink": "/blog/como-criar-um-ecommerce"
             }
           },
-          "content": "Controlar o dinheiro não significa apenas saber quanto você ganha, mas principalmente entender para onde ele está indo. Muitas pessoas enfrentam dificuldades financeiras não por falta de renda, mas pela ausência de um planejamento adequado.\r\n\r\nUma *planilha de gastos* é uma das ferramentas mais simples e eficientes para organizar o orçamento, identificar desperdícios e planejar objetivos como quitar dívidas, montar uma reserva de emergência ou investir.\r\n\r\nNeste guia você aprenderá como funciona uma planilha financeira, quais informações registrar e como utilizá-la para melhorar sua saúde financeira.\r\n\r\n## O que é uma planilha de gastos?\r\n\r\nUma planilha de gastos é uma ferramenta utilizada para registrar todas as entradas e saídas de dinheiro durante um determinado período.\r\n\r\nEla permite visualizar quanto você recebe, quanto gasta e quanto consegue economizar, facilitando decisões financeiras mais conscientes.\r\n\r\nO controle pode ser realizado utilizando Excel, Google Planilhas ou aplicativos especializados.\r\n\r\n## Por que controlar os gastos?\r\n\r\nSem acompanhar suas despesas, torna-se difícil identificar excessos e criar um planejamento financeiro eficiente.\r\n\r\nAo registrar todas as movimentações você consegue:\r\n\r\n- Saber exatamente para onde seu dinheiro está indo.\r\n- Identificar gastos desnecessários.\r\n- Evitar atrasos em contas.\r\n- Planejar compras importantes.\r\n- Criar uma reserva de emergência.\r\n- Aumentar sua capacidade de investimento.\r\n\r\nO primeiro passo para enriquecer é conhecer sua realidade financeira.\r\n\r\n## Como montar uma planilha financeira\r\n\r\nUma planilha eficiente deve conter informações como:\r\n\r\n- Salário e outras receitas.\r\n- Gastos fixos.\r\n- Gastos variáveis.\r\n- Dívidas.\r\n- Investimentos.\r\n- Objetivos financeiros.\r\n- Saldo disponível.\r\n\r\nOrganizar essas informações mensalmente facilita o acompanhamento da evolução do seu patrimônio.\r\n\r\n## Categorias recomendadas\r\n\r\n| Categoria | Exemplos |\r\n|------------|----------|\r\n| Moradia | Aluguel, condomínio, energia. |\r\n| Alimentação | Supermercado e restaurantes. |\r\n| Transporte | Combustível, transporte público. |\r\n| Saúde | Plano de saúde, medicamentos. |\r\n| Educação | Cursos, livros, mensalidades. |\r\n| Lazer | Cinema, viagens, assinaturas. |\r\n| Investimentos | Aportes e reserva de emergência. |\r\n\r\nSeparar as despesas por categoria ajuda a identificar onde existem oportunidades de economia.\r\n\r\n## Vantagens\r\n\r\n| Benefício | Resultado |\r\n|------------|-----------|\r\n| Organização | Controle completo das finanças. |\r\n| Planejamento | Facilidade para atingir metas. |\r\n| Economia | Identificação de desperdícios. |\r\n| Segurança | Melhor preparação para imprevistos. |\r\n\r\nMesmo uma planilha simples já pode fazer grande diferença no controle financeiro.\r\n\r\n## Erros mais comuns\r\n\r\nEvite cometer estes erros:\r\n\r\n- Registrar apenas parte das despesas.\r\n- Esquecer pequenos gastos do dia a dia.\r\n- Não atualizar a planilha regularmente.\r\n- Misturar gastos pessoais e profissionais.\r\n- Não definir metas financeiras.\r\n\r\nA disciplina é mais importante do que utilizar uma ferramenta complexa.\r\n\r\n## Ferramentas para organizar as finanças\r\n\r\nAlém das planilhas tradicionais, você pode utilizar:\r\n\r\n- Google Planilhas.\r\n- Microsoft Excel.\r\n- Aplicativos de controle financeiro.\r\n- Dashboards personalizados.\r\n- Calculadoras financeiras online.\r\n\r\nEscolha a ferramenta que melhor se adapta à sua rotina e mantenha os registros sempre atualizados.\r\n\r\n## Vale a pena usar uma planilha?\r\n\r\nSim. Mesmo com diversos aplicativos disponíveis, as planilhas continuam sendo uma excelente alternativa por oferecerem flexibilidade, personalização e total controle sobre os dados.\r\n\r\nAlém disso, permitem criar gráficos, acompanhar a evolução do patrimônio e adaptar o controle conforme suas necessidades.\r\n\r\n## Conclusão\r\n\r\nUma planilha de gastos é uma ferramenta indispensável para quem deseja organizar as finanças, reduzir desperdícios e alcançar objetivos financeiros de forma mais rápida.\r\n\r\nO mais importante não é utilizar a planilha mais sofisticada, mas criar o hábito de registrar receitas e despesas regularmente. Com disciplina e planejamento, fica muito mais fácil economizar, investir e conquistar estabilidade financeira.\r\n\r\n<hr/>\r\nGostaria de ajuda para controlar seus gastos? Acesse nossa <a href=\"https://kiwify.app/BqqjYkN\">Planilha de controle de gastos</a> e aprenda a gerenciar suas finanças pessoais. <br />\r\n<hr/>"
+          "content": "Investir é apenas uma parte do processo para construir patrimônio. Tão importante quanto realizar aportes é acompanhar o desempenho da carteira, controlar dividendos, analisar a distribuição dos ativos e identificar oportunidades de rebalanceamento.\r\n\r\nUma *planilha automatizada de investimentos* permite visualizar todas essas informações em um único lugar, facilitando a tomada de decisões e reduzindo o tempo gasto com controles manuais.\r\n\r\nNeste guia você aprenderá como funciona uma planilha de investimentos, quais indicadores acompanhar e por que uma ferramenta automatizada pode transformar sua organização financeira.\r\n\r\n## O que é uma planilha de investimentos?\r\n\r\nUma planilha de investimentos é uma ferramenta utilizada para registrar todas as compras, vendas, dividendos e demais movimentações da sua carteira.\r\n\r\nAlém de organizar os dados, uma planilha inteligente pode calcular automaticamente indicadores importantes, permitindo acompanhar a evolução do patrimônio ao longo do tempo.\r\n\r\nEla pode ser utilizada para diversos tipos de ativos, como:\r\n\r\n- Ações\r\n- Fundos Imobiliários (FIIs)\r\n- ETFs\r\n- BDRs\r\n- Renda Fixa\r\n- Criptomoedas\r\n- Investimentos internacionais\r\n\r\n## Por que acompanhar sua carteira?\r\n\r\nMuitos investidores concentram esforços na escolha dos ativos, mas deixam de acompanhar a evolução dos resultados.\r\n\r\nUm bom controle permite:\r\n\r\n- Conhecer o patrimônio atualizado.\r\n- Acompanhar a rentabilidade da carteira.\r\n- Controlar dividendos recebidos.\r\n- Identificar excesso de concentração em determinados setores.\r\n- Planejar novos aportes.\r\n- Facilitar a declaração do Imposto de Renda.\r\n\r\nQuanto mais informações estiverem organizadas, melhores tendem a ser as decisões de investimento.\r\n\r\n## O que uma planilha automatizada faz?\r\n\r\nUma planilha moderna pode automatizar diversas tarefas que normalmente seriam feitas manualmente.\r\n\r\nEntre elas:\r\n\r\n- Atualização automática de preços.\r\n- Cálculo do preço médio.\r\n- Controle de aportes.\r\n- Distribuição por classe de investimento.\r\n- Gráficos.\r\n\r\nEssa automação reduz erros e economiza tempo.\r\n\r\n\r\n## Benefícios\r\n\r\n| Benefício | Resultado |\r\n|------------|-----------|\r\n| Organização | Todas as informações em um único lugar. |\r\n| Economia de tempo | Automatização de cálculos. |\r\n| Precisão | Redução de erros manuais. |\r\n| Planejamento | Melhor controle dos objetivos financeiros. |\r\n\r\nMesmo investidores iniciantes podem se beneficiar de um acompanhamento estruturado.\r\n\r\n## Vale a pena utilizar uma planilha automatizada?\r\n\r\nSim. Uma planilha automatizada oferece muito mais controle e praticidade do que registros manuais, principalmente para quem possui uma carteira diversificada.\r\n\r\nEla facilita o acompanhamento dos investimentos, reduz o tempo gasto com cálculos e fornece informações importantes para rebalancear a carteira e acompanhar seus objetivos financeiros.\r\n\r\n## Conclusão\r\n\r\nUma planilha automatizada é uma excelente aliada para investidores que desejam organizar sua carteira, acompanhar a evolução do patrimônio e tomar decisões baseadas em dados.\r\n\r\nIndependentemente do valor investido, criar o hábito de monitorar seus ativos é um passo importante para construir riqueza no longo prazo.\r\n\r\n<hr/>\r\nGostaria de ajuda para investir melhor? Acesse nossa <a href=\"https://kiwify.app/BqqjYkN\">Planilha de investimentos</a> e aprenda a investir de maneira inteligente. <br />\r\n<hr/>"
         },
         {
           "id": "como-criar-um-ecommerce",
@@ -470,7 +470,7 @@
                 "permalink": "/blog/tags/loja-virtual"
               }
             ],
-            "readingTime": 2.855,
+            "readingTime": 2.85,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -496,15 +496,15 @@
               ]
             },
             "prevItem": {
-              "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
-              "permalink": "/blog/planilha-de-gastos"
+              "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
+              "permalink": "/blog/planilha-de-investimentos"
             },
             "nextItem": {
               "title": "Pesquisas Remuneradas Funcionam? Guia Completo para Ganhar Dinheiro Respondendo Pesquisas",
               "permalink": "/blog/pesquisas-remuneradas"
             }
           },
-          "content": "Vender pela internet nunca foi tão acessível. Hoje é possível abrir uma loja virtual com baixo investimento, alcançar clientes em todo o país e administrar praticamente todo o negócio de forma online. No entanto, criar um eCommerce de sucesso exige planejamento, estratégia e conhecimento das principais ferramentas do mercado.\r\n\r\nNeste guia você aprenderá o que é um eCommerce, como funciona, quais plataformas utilizar, como atrair clientes e quais erros evitar para aumentar suas chances de sucesso.\r\n\r\n[![Foto: insígnia de um bitcoin](./ads/negocio_promo.jpg#rounded)](https://kiwify.app/BqqjYkN)\r\n\r\n## O que é um eCommerce?\r\n\r\neCommerce, ou comércio eletrônico, é a venda de produtos ou serviços pela internet. As compras são realizadas por meio de plataformas digitais, permitindo que clientes façam pedidos de qualquer lugar e a qualquer hora.\r\n\r\nAtualmente, existem lojas virtuais de diversos segmentos, desde pequenos empreendedores até grandes empresas que faturam milhões de reais por mês.\r\n\r\n![Foto: Pessoa digitando em teclado do qual sai um holograma de robô oferecendo ajuda](./img/commerce.jpg#rounded)\r\n\r\n## Como funciona um eCommerce?\r\n\r\nUma loja virtual reúne diversas etapas do processo de venda em um único ambiente:\r\n\r\n- Cadastro dos produtos.\r\n- Carrinho de compras.\r\n- Pagamento online.\r\n- Controle de estoque.\r\n- Emissão de pedidos.\r\n- Entrega ao cliente.\r\n- Atendimento pós-venda.\r\n\r\nGrande parte dessas tarefas pode ser automatizada utilizando plataformas especializadas.\r\n\r\n![Foto: Pessoa digitando em teclado do qual sai um holograma de robô oferecendo ajuda](./img/commerce2.jpg#rounded)\r\n\r\n## Benefícios do eCommerce\r\n\r\n- **Acessibilidade**: O eCommerce permite que empreendedores alcancem clientes em todo o Brasil, independentemente de sua localização geográfica.\r\n\r\n- **Baixo custo inicial**: Iniciar um negócio online muitas vezes requer menos investimento inicial do que uma loja física.\r\n\r\n- **Flexibilidade**: Você pode gerenciar seu negócio de qualquer lugar, desde que tenha acesso à internet, o que oferece flexibilidade de horários e local de trabalho.\r\n\r\n- **Diversidade de produtos**: Com o eCommerce, você pode vender uma variedade infinita de produtos, desde produtos físicos até serviços digitais.\r\n\r\n![Foto: Pessoa digitando em teclado do qual sai um holograma de robô oferecendo ajuda](./img/commerce1.jpg#rounded)\r\n\r\n## Como criar um eCommerce\r\n\r\nPara iniciar seu negócio online:\r\n\r\n1. Escolha um nicho de mercado.\r\n2. Pesquise seus concorrentes.\r\n3. Defina os produtos que serão vendidos.\r\n4. Escolha uma plataforma de eCommerce.\r\n5. Configure meios de pagamento.\r\n6. Organize a logística de entrega.\r\n7. Crie uma identidade visual profissional.\r\n8. Invista em SEO e Marketing Digital.\r\n\r\nComeçar com poucos produtos costuma facilitar a gestão e reduzir riscos.\r\n\r\n[![Foto: insígnia de eCommerce](./ads/negocio.jpg#rounded)](../docs/cursos/negocio-online)\r\n\r\n## Como atrair clientes\r\n\r\nExistem diversas formas de gerar vendas:\r\n\r\n- SEO para Google.\r\n- Pinterest.\r\n- Redes sociais.\r\n- Google Ads.\r\n- Marketing de conteúdo.\r\n- E-mail marketing.\r\n- Programa de afiliados.\r\n- Influenciadores digitais.\r\n\r\nA combinação de tráfego orgânico e tráfego pago costuma gerar resultados mais consistentes.\r\n\r\n## Conclusão\r\n\r\nCriar um eCommerce é uma excelente oportunidade para quem deseja empreender na internet e construir uma fonte de renda escalável. Com planejamento, escolha de um bom nicho e investimento em marketing, é possível transformar uma pequena loja virtual em um negócio lucrativo.\r\n\r\nO segredo está em oferecer uma boa experiência ao cliente, acompanhar indicadores de desempenho e buscar melhorias constantes.\r\n\r\nAo entender as tendências, aproveitar os benefícios e adotar estratégias eficazes, você pode gerar renda extra e até mesmo transformar o eCommerce em sua principal fonte de renda.\r\n\r\n<hr/>\r\nGostaria de se aprofundar ainda mais no assunto? Acesse nosso curso online sobre <a href=\"https://kiwify.app/BqqjYkN\">10 passos para ter um negócio online</a> e aprenda estratégias comprovadas para ter no eCommerce brasileiro. <br />\r\n<hr/>"
+          "content": "Vender pela internet nunca foi tão acessível. Hoje é possível abrir uma loja virtual com baixo investimento, alcançar clientes em todo o país e administrar praticamente todo o negócio de forma online. No entanto, criar um eCommerce de sucesso exige planejamento, estratégia e conhecimento das principais ferramentas do mercado.\r\n\r\nNeste guia você aprenderá o que é um eCommerce, como funciona, quais plataformas utilizar, como atrair clientes e quais erros evitar para aumentar suas chances de sucesso.\r\n\r\n[![Foto: insígnia de ecommerce](./ads/negocio_promo.jpg#rounded)](https://kiwify.app/BqqjYkN)\r\n\r\n## O que é um eCommerce?\r\n\r\neCommerce, ou comércio eletrônico, é a venda de produtos ou serviços pela internet. As compras são realizadas por meio de plataformas digitais, permitindo que clientes façam pedidos de qualquer lugar e a qualquer hora.\r\n\r\nAtualmente, existem lojas virtuais de diversos segmentos, desde pequenos empreendedores até grandes empresas que faturam milhões de reais por mês.\r\n\r\n![Foto: Pessoa digitando em teclado do qual sai um holograma de robô oferecendo ajuda](./img/commerce.jpg#rounded)\r\n\r\n## Como funciona um eCommerce?\r\n\r\nUma loja virtual reúne diversas etapas do processo de venda em um único ambiente:\r\n\r\n- Cadastro dos produtos.\r\n- Carrinho de compras.\r\n- Pagamento online.\r\n- Controle de estoque.\r\n- Emissão de pedidos.\r\n- Entrega ao cliente.\r\n- Atendimento pós-venda.\r\n\r\nGrande parte dessas tarefas pode ser automatizada utilizando plataformas especializadas.\r\n\r\n![Foto: Pessoa digitando em teclado do qual sai um holograma de robô oferecendo ajuda](./img/commerce2.jpg#rounded)\r\n\r\n## Benefícios do eCommerce\r\n\r\n- **Acessibilidade**: O eCommerce permite que empreendedores alcancem clientes em todo o Brasil, independentemente de sua localização geográfica.\r\n\r\n- **Baixo custo inicial**: Iniciar um negócio online muitas vezes requer menos investimento inicial do que uma loja física.\r\n\r\n- **Flexibilidade**: Você pode gerenciar seu negócio de qualquer lugar, desde que tenha acesso à internet, o que oferece flexibilidade de horários e local de trabalho.\r\n\r\n- **Diversidade de produtos**: Com o eCommerce, você pode vender uma variedade infinita de produtos, desde produtos físicos até serviços digitais.\r\n\r\n![Foto: Pessoa digitando em teclado do qual sai um holograma de robô oferecendo ajuda](./img/commerce1.jpg#rounded)\r\n\r\n## Como criar um eCommerce\r\n\r\nPara iniciar seu negócio online:\r\n\r\n1. Escolha um nicho de mercado.\r\n2. Pesquise seus concorrentes.\r\n3. Defina os produtos que serão vendidos.\r\n4. Escolha uma plataforma de eCommerce.\r\n5. Configure meios de pagamento.\r\n6. Organize a logística de entrega.\r\n7. Crie uma identidade visual profissional.\r\n8. Invista em SEO e Marketing Digital.\r\n\r\nComeçar com poucos produtos costuma facilitar a gestão e reduzir riscos.\r\n\r\n[![Foto: insígnia de eCommerce](./ads/negocio.jpg#rounded)](../docs/cursos/negocio-online)\r\n\r\n## Como atrair clientes\r\n\r\nExistem diversas formas de gerar vendas:\r\n\r\n- SEO para Google.\r\n- Pinterest.\r\n- Redes sociais.\r\n- Google Ads.\r\n- Marketing de conteúdo.\r\n- E-mail marketing.\r\n- Programa de afiliados.\r\n- Influenciadores digitais.\r\n\r\nA combinação de tráfego orgânico e tráfego pago costuma gerar resultados mais consistentes.\r\n\r\n## Conclusão\r\n\r\nCriar um eCommerce é uma excelente oportunidade para quem deseja empreender na internet e construir uma fonte de renda escalável. Com planejamento, escolha de um bom nicho e investimento em marketing, é possível transformar uma pequena loja virtual em um negócio lucrativo.\r\n\r\nO segredo está em oferecer uma boa experiência ao cliente, acompanhar indicadores de desempenho e buscar melhorias constantes.\r\n\r\nAo entender as tendências, aproveitar os benefícios e adotar estratégias eficazes, você pode gerar renda extra e até mesmo transformar o eCommerce em sua principal fonte de renda.\r\n\r\n<hr/>\r\nGostaria de se aprofundar ainda mais no assunto? Acesse nosso curso online sobre <a href=\"https://kiwify.app/BqqjYkN\">10 passos para ter um negócio online</a> e aprenda estratégias comprovadas para ter no eCommerce brasileiro. <br />\r\n<hr/>"
         },
         {
           "id": "/pesquisas-remuneradas",
@@ -848,7 +848,7 @@
                 "permalink": "/blog/tags/renda-extra"
               }
             ],
-            "readingTime": 3.88,
+            "readingTime": 3.9,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -879,14 +879,14 @@
               "permalink": "/blog/como-usar-chatgpt"
             }
           },
-          "content": "O trabalho remoto deixou de ser uma tendência e se tornou uma realidade para milhões de profissionais. Empresas de diversos setores passaram a contratar talentos independentemente da localização, ampliando as oportunidades para quem deseja trabalhar em casa com mais flexibilidade e qualidade de vida.\r\n\r\nNo entanto, conquistar uma vaga em home office exige preparo, organização e conhecimento das ferramentas utilizadas pelas empresas. Neste guia você aprenderá como funciona o trabalho remoto, quais profissões estão em alta, onde encontrar vagas e como aumentar suas chances de sucesso.\r\n\r\n![alt-text](./img/homeOffice0.jpg#rounded)\r\n\r\n## O que é Home Office?\r\n\r\nHome Office é um modelo de trabalho em que o profissional realiza suas atividades fora da empresa, normalmente em casa, utilizando computador, internet e ferramentas de comunicação online.\r\n\r\nAtualmente, muitas empresas adotam modelos totalmente remotos ou híbridos, permitindo que colaboradores trabalhem de qualquer cidade ou até mesmo de outros países.\r\n\r\n## Vantagens do Home Office\r\n\r\n* Flexibilidade de horários: Tenha o controle sobre sua agenda e aproveite a liberdade de adaptar seus horários de trabalho de acordo com suas necessidades.\r\n* Maior conforto e redução de estresse: Trabalhe em um ambiente familiar e personalize seu espaço de trabalho para aumentar o conforto e a produtividade.\r\n* Economia de tempo e dinheiro: Elimine deslocamentos diários, reduza os gastos com transporte e alimentação fora de casa.\r\n* Autonomia e liberdade: Tenha mais controle sobre suas tarefas, tome decisões independentes e desenvolva um senso de autodisciplina.\r\n* Maior equilíbrio entre vida pessoal e profissional: Tenha a flexibilidade de cuidar de assuntos pessoais e aproveitar momentos com a família enquanto mantém sua produtividade.\r\n\r\n![alt-text](./img/homeOffice3.jpg#rounded)\r\n\r\n## Desafios do Home Office\r\n\r\n* Distrações domésticas: É preciso lidar com distrações como tarefas domésticas, familiares e pets. Estabelecer uma rotina e um ambiente de trabalho adequado são fundamentais.\r\n* Isolamento social: A falta de interação com colegas de trabalho pode ser desafiadora. É importante buscar formas de manter conexões sociais, seja por meio de videoconferências, grupos online ou atividades fora do trabalho.\r\n* Autodisciplina: Trabalhar em casa exige autodisciplina para evitar procrastinação e manter o foco nas tarefas. Estabeleça horários definidos e separe um espaço dedicado exclusivamente ao trabalho.\r\n\r\n![alt-text](./img/homeOffice.jpg#rounded)\r\n\r\n## Profissões em alta\r\n\r\nO número de vagas remotas cresce em diversas áreas.\r\n\r\nEntre as principais estão:\r\n\r\n- Desenvolvimento de Software.\r\n- Marketing Digital.\r\n- Design Gráfico.\r\n- Atendimento ao Cliente.\r\n- Produção de Conteúdo.\r\n- Tradução.\r\n- Redação.\r\n- Gestão de Redes Sociais.\r\n- Suporte Técnico.\r\n- Análise de Dados.\r\n\r\nAlém disso, muitos profissionais atuam como freelancers ou empreendedores digitais.\r\n\r\n## Como conseguir uma vaga\r\n\r\nAlgumas dicas importantes:\r\n\r\n1. Atualize seu currículo e LinkedIn.\r\n2. Desenvolva habilidades digitais.\r\n3. Monte um portfólio.\r\n4. Candidate-se em plataformas de empregos remotos.\r\n5. Aprenda inglês para ampliar as oportunidades.\r\n6. Invista em cursos e certificações.\r\n\r\nQuanto maior sua qualificação, maiores serão suas chances de conquistar vagas com melhores salários.\r\n\r\n## Dicas para o Sucesso\r\n\r\n1. Crie uma rotina: Estabeleça horários regulares para trabalhar, fazer pausas e encerrar o expediente.\r\n2. Organize seu espaço de trabalho: Tenha um ambiente limpo, organizado e livre de distrações.\r\n3. Defina metas e objetivos claros: Estabeleça metas diárias ou semanais para manter o foco e medir seu progresso.\r\n4. Comunique-se com a equipe: Mantenha uma comunicação clara e regular com colegas e gestores por meio de ferramentas de comunicação online.\r\n5. Faça pausas ativas: Levante-se, estique-se e faça pequenas pausas para descansar a mente e o corpo.\r\n6. Cuide da sua saúde mental e bem-estar: Pratique atividades que promovam o equilíbrio e o bem-estar, como exercícios físicos, meditação ou hobbies.\r\n7. Mantenha-se atualizado: Aproveite cursos online e recursos de aprendizado para aprimorar suas habilidades e se manter atualizado com as melhores práticas do trabalho remoto.\r\n\r\n## Vale a pena trabalhar em Home Office?\r\n\r\nPara muitas pessoas, sim. O Home Office oferece flexibilidade, redução de custos e acesso a oportunidades que antes estavam restritas a determinadas regiões.\r\n\r\nEntretanto, o sucesso nesse modelo depende da capacidade de organização, comunicação e aprendizado contínuo.\r\n\r\n![alt-text](./img/homeOffice2.jpg#rounded)\r\n\r\n## Conclusão\r\n\r\nO Home Office transformou a forma como trabalhamos e abriu novas possibilidades para profissionais de diferentes áreas. Com planejamento, capacitação e uma rotina organizada, é possível construir uma carreira sólida trabalhando de qualquer lugar.\r\n\r\nSe você deseja iniciar no trabalho remoto, comece desenvolvendo novas habilidades, organize seu ambiente de trabalho e acompanhe as tendências do mercado para aproveitar as melhores oportunidades.\r\n\r\n<hr/>\r\nGostaria de se aprofundar ainda mais no assunto? Acesse nosso curso online sobre Home Office Produtivo e aprenda estratégias comprovadas para ter sucesso trabalhando de casa. <a href=\"https://pay.kiwify.com.br/m4bbBZP\">Inscreva-se agora e comece a transformar sua carreira!</a><br />\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_Jt-axNebRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\r\n<hr/>"
+          "content": "O trabalho remoto deixou de ser uma tendência e se tornou uma realidade para milhões de profissionais. Empresas de diversos setores passaram a contratar talentos independentemente da localização, ampliando as oportunidades para quem deseja trabalhar em casa com mais flexibilidade e qualidade de vida.\r\n\r\nNo entanto, conquistar uma vaga em home office exige preparo, organização e conhecimento das ferramentas utilizadas pelas empresas. Neste guia você aprenderá como funciona o trabalho remoto, quais profissões estão em alta, onde encontrar vagas e como aumentar suas chances de sucesso.\r\n\r\n![alt-text](./img/homeOffice0.jpg#rounded)\r\n\r\n## O que é Home Office?\r\n\r\nHome Office é um modelo de trabalho em que o profissional realiza suas atividades fora da empresa, normalmente em casa, utilizando computador, internet e ferramentas de comunicação online.\r\n\r\nAtualmente, muitas empresas adotam modelos totalmente remotos ou híbridos, permitindo que colaboradores trabalhem de qualquer cidade ou até mesmo de outros países.\r\n\r\n## Vantagens do Home Office\r\n\r\n* Flexibilidade de horários: Tenha o controle sobre sua agenda e aproveite a liberdade de adaptar seus horários de trabalho de acordo com suas necessidades.\r\n* Maior conforto e redução de estresse: Trabalhe em um ambiente familiar e personalize seu espaço de trabalho para aumentar o conforto e a produtividade.\r\n* Economia de tempo e dinheiro: Elimine deslocamentos diários, reduza os gastos com transporte e alimentação fora de casa.\r\n* Autonomia e liberdade: Tenha mais controle sobre suas tarefas, tome decisões independentes e desenvolva um senso de autodisciplina.\r\n* Maior equilíbrio entre vida pessoal e profissional: Tenha a flexibilidade de cuidar de assuntos pessoais e aproveitar momentos com a família enquanto mantém sua produtividade.\r\n\r\n![alt-text](./img/homeOffice3.jpg#rounded)\r\n\r\n## Desafios do Home Office\r\n\r\n* Distrações domésticas: É preciso lidar com distrações como tarefas domésticas, familiares e pets. Estabelecer uma rotina e um ambiente de trabalho adequado são fundamentais.\r\n* Isolamento social: A falta de interação com colegas de trabalho pode ser desafiadora. É importante buscar formas de manter conexões sociais, seja por meio de videoconferências, grupos online ou atividades fora do trabalho.\r\n* Autodisciplina: Trabalhar em casa exige autodisciplina para evitar procrastinação e manter o foco nas tarefas. Estabeleça horários definidos e separe um espaço dedicado exclusivamente ao trabalho.\r\n\r\n![alt-text](./img/homeOffice.jpg#rounded)\r\n\r\n## Profissões em alta\r\n\r\nO número de vagas remotas cresce em diversas áreas.\r\n\r\nEntre as principais estão:\r\n\r\n- Desenvolvimento de Software.\r\n- Marketing Digital.\r\n- Design Gráfico.\r\n- Atendimento ao Cliente.\r\n- Produção de Conteúdo.\r\n- Tradução.\r\n- Redação.\r\n- Gestão de Redes Sociais.\r\n- Suporte Técnico.\r\n- Análise de Dados.\r\n\r\nAlém disso, muitos profissionais atuam como freelancers ou empreendedores digitais.\r\n\r\n[![Foto: insígnia de eCommerce](./ads/homeOffice.jpg#rounded)](../docs/cursos/negocio-online)\r\n\r\n## Como conseguir uma vaga\r\n\r\nAlgumas dicas importantes:\r\n\r\n1. Atualize seu currículo e LinkedIn.\r\n2. Desenvolva habilidades digitais.\r\n3. Monte um portfólio.\r\n4. Candidate-se em plataformas de empregos remotos.\r\n5. Aprenda inglês para ampliar as oportunidades.\r\n6. Invista em cursos e certificações.\r\n\r\nQuanto maior sua qualificação, maiores serão suas chances de conquistar vagas com melhores salários.\r\n\r\n## Dicas para o Sucesso\r\n\r\n1. Crie uma rotina: Estabeleça horários regulares para trabalhar, fazer pausas e encerrar o expediente.\r\n2. Organize seu espaço de trabalho: Tenha um ambiente limpo, organizado e livre de distrações.\r\n3. Defina metas e objetivos claros: Estabeleça metas diárias ou semanais para manter o foco e medir seu progresso.\r\n4. Comunique-se com a equipe: Mantenha uma comunicação clara e regular com colegas e gestores por meio de ferramentas de comunicação online.\r\n5. Faça pausas ativas: Levante-se, estique-se e faça pequenas pausas para descansar a mente e o corpo.\r\n6. Cuide da sua saúde mental e bem-estar: Pratique atividades que promovam o equilíbrio e o bem-estar, como exercícios físicos, meditação ou hobbies.\r\n7. Mantenha-se atualizado: Aproveite cursos online e recursos de aprendizado para aprimorar suas habilidades e se manter atualizado com as melhores práticas do trabalho remoto.\r\n\r\n## Vale a pena trabalhar em Home Office?\r\n\r\nPara muitas pessoas, sim. O Home Office oferece flexibilidade, redução de custos e acesso a oportunidades que antes estavam restritas a determinadas regiões.\r\n\r\nEntretanto, o sucesso nesse modelo depende da capacidade de organização, comunicação e aprendizado contínuo.\r\n\r\n![alt-text](./img/homeOffice2.jpg#rounded)\r\n\r\n## Conclusão\r\n\r\nO Home Office transformou a forma como trabalhamos e abriu novas possibilidades para profissionais de diferentes áreas. Com planejamento, capacitação e uma rotina organizada, é possível construir uma carreira sólida trabalhando de qualquer lugar.\r\n\r\nSe você deseja iniciar no trabalho remoto, comece desenvolvendo novas habilidades, organize seu ambiente de trabalho e acompanhe as tendências do mercado para aproveitar as melhores oportunidades.\r\n\r\n<hr/>\r\nGostaria de se aprofundar ainda mais no assunto? Acesse nosso curso online sobre Home Office Produtivo e aprenda estratégias comprovadas para ter sucesso trabalhando de casa. <a href=\"https://pay.kiwify.com.br/m4bbBZP\">Inscreva-se agora e comece a transformar sua carreira!</a><br />\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_Jt-axNebRk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\r\n<hr/>"
         }
       ],
       "blogListPaginated": [
         {
           "items": [
-            "planilha-de-investimentos",
             "planilha-de-gastos",
+            "planilha-de-investimentos",
             "como-criar-um-ecommerce",
             "/pesquisas-remuneradas",
             "como-fazer-um-pitch-de-vendas",
@@ -907,6 +907,102 @@
         }
       ],
       "blogTags": {
+        "/blog/tags/financas-pessoais": {
+          "label": "Finanças Pessoais",
+          "items": [
+            "planilha-de-gastos"
+          ],
+          "permalink": "/blog/tags/financas-pessoais",
+          "pages": [
+            {
+              "items": [
+                "planilha-de-gastos"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/financas-pessoais",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/educacao-financeira": {
+          "label": "Educação Financeira",
+          "items": [
+            "planilha-de-gastos",
+            "planilha-de-investimentos"
+          ],
+          "permalink": "/blog/tags/educacao-financeira",
+          "pages": [
+            {
+              "items": [
+                "planilha-de-gastos",
+                "planilha-de-investimentos"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/educacao-financeira",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/planejamento-financeiro": {
+          "label": "Planejamento Financeiro",
+          "items": [
+            "planilha-de-gastos"
+          ],
+          "permalink": "/blog/tags/planejamento-financeiro",
+          "pages": [
+            {
+              "items": [
+                "planilha-de-gastos"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/planejamento-financeiro",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/planilhas": {
+          "label": "Planilhas",
+          "items": [
+            "planilha-de-gastos",
+            "planilha-de-investimentos"
+          ],
+          "permalink": "/blog/tags/planilhas",
+          "pages": [
+            {
+              "items": [
+                "planilha-de-gastos",
+                "planilha-de-investimentos"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/planilhas",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
         "/blog/tags/investimentos": {
           "label": "Investimentos",
           "items": [
@@ -932,56 +1028,6 @@
             }
           ]
         },
-        "/blog/tags/planilhas": {
-          "label": "Planilhas",
-          "items": [
-            "planilha-de-investimentos",
-            "planilha-de-gastos"
-          ],
-          "permalink": "/blog/tags/planilhas",
-          "pages": [
-            {
-              "items": [
-                "planilha-de-investimentos",
-                "planilha-de-gastos"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/planilhas",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 2,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/blog/tags/educacao-financeira": {
-          "label": "Educação Financeira",
-          "items": [
-            "planilha-de-investimentos",
-            "planilha-de-gastos"
-          ],
-          "permalink": "/blog/tags/educacao-financeira",
-          "pages": [
-            {
-              "items": [
-                "planilha-de-investimentos",
-                "planilha-de-gastos"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/educacao-financeira",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 2,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
         "/blog/tags/carteira-de-investimentos": {
           "label": "Carteira de Investimentos",
           "items": [
@@ -995,52 +1041,6 @@
               ],
               "metadata": {
                 "permalink": "/blog/tags/carteira-de-investimentos",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/blog/tags/financas-pessoais": {
-          "label": "Finanças Pessoais",
-          "items": [
-            "planilha-de-gastos"
-          ],
-          "permalink": "/blog/tags/financas-pessoais",
-          "pages": [
-            {
-              "items": [
-                "planilha-de-gastos"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/financas-pessoais",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/blog/tags/planejamento-financeiro": {
-          "label": "Planejamento Financeiro",
-          "items": [
-            "planilha-de-gastos"
-          ],
-          "permalink": "/blog/tags/planejamento-financeiro",
-          "pages": [
-            {
-              "items": [
-                "planilha-de-gastos"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/planejamento-financeiro",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,

@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '2f8'),
+    component: ComponentCreator('/blog', '534'),
     exact: true
   },
   {
@@ -129,7 +129,7 @@ export default [
   },
   {
     path: '/blog/tags/educacao-financeira',
-    component: ComponentCreator('/blog/tags/educacao-financeira', '15c'),
+    component: ComponentCreator('/blog/tags/educacao-financeira', '6b3'),
     exact: true
   },
   {
@@ -189,7 +189,7 @@ export default [
   },
   {
     path: '/blog/tags/planilhas',
-    component: ComponentCreator('/blog/tags/planilhas', 'c88'),
+    component: ComponentCreator('/blog/tags/planilhas', 'cc2'),
     exact: true
   },
   {

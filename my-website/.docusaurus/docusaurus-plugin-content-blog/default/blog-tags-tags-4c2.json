@@ -1,13 +1,8 @@
 [
   {
-    "label": "Investimentos",
-    "permalink": "/blog/tags/investimentos",
-    "count": 2
-  },
-  {
-    "label": "Planilhas",
-    "permalink": "/blog/tags/planilhas",
-    "count": 2
+    "label": "Finanças Pessoais",
+    "permalink": "/blog/tags/financas-pessoais",
+    "count": 1
   },
   {
     "label": "Educação Financeira",
@@ -15,18 +10,23 @@
     "count": 2
   },
   {
-    "label": "Carteira de Investimentos",
-    "permalink": "/blog/tags/carteira-de-investimentos",
-    "count": 1
-  },
-  {
-    "label": "Finanças Pessoais",
-    "permalink": "/blog/tags/financas-pessoais",
-    "count": 1
-  },
-  {
     "label": "Planejamento Financeiro",
     "permalink": "/blog/tags/planejamento-financeiro",
+    "count": 1
+  },
+  {
+    "label": "Planilhas",
+    "permalink": "/blog/tags/planilhas",
+    "count": 2
+  },
+  {
+    "label": "Investimentos",
+    "permalink": "/blog/tags/investimentos",
+    "count": 2
+  },
+  {
+    "label": "Carteira de Investimentos",
+    "permalink": "/blog/tags/carteira-de-investimentos",
     "count": 1
   },
   {

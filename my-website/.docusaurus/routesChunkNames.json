@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debug-0-f-3-a29"
     }
   },
-  "/blog-2f8": {
+  "/blog-534": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-7-fe-f0d"
@@ -50,10 +50,10 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogd-4-d-843"
+        "content": "content---blog-83-e-52b"
       },
       {
-        "content": "content---blog-83-e-52b"
+        "content": "content---blogd-4-d-843"
       },
       {
         "content": "content---blog-598-44f"
@@ -256,7 +256,7 @@
     "tag": "tag---blog-tags-e-commerce-5-a-2-12d",
     "listMetadata": "listMetadata---blog-tags-e-commercefe-1-818"
   },
-  "/blog/tags/educacao-financeira-15c": {
+  "/blog/tags/educacao-financeira-6b3": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-7-fe-f0d"
@@ -264,10 +264,10 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogd-4-d-843"
+        "content": "content---blog-83-e-52b"
       },
       {
-        "content": "content---blog-83-e-52b"
+        "content": "content---blogd-4-d-843"
       }
     ],
     "tag": "tag---blog-tags-educacao-financeira-55-e-958",
@@ -436,7 +436,7 @@
     "tag": "tag---blog-tags-planejamento-financeiro-91-b-8fc",
     "listMetadata": "listMetadata---blog-tags-planejamento-financeirod-16-201"
   },
-  "/blog/tags/planilhas-c88": {
+  "/blog/tags/planilhas-cc2": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-7-fe-f0d"
@@ -444,10 +444,10 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogd-4-d-843"
+        "content": "content---blog-83-e-52b"
       },
       {
-        "content": "content---blog-83-e-52b"
+        "content": "content---blogd-4-d-843"
       }
     ],
     "tag": "tag---blog-tags-planilhas-313-426",
