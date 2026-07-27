@@ -1,9 +1,25 @@
 {
-  "title": "Postagens recentes",
+  "title": "Recent posts",
   "items": [
     {
-      "title": "Sobre o Home Office",
-      "permalink": "/blog/sobre-home-office"
+      "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
+      "permalink": "/blog/planilha-de-investimentos"
+    },
+    {
+      "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
+      "permalink": "/blog/planilha-de-gastos"
+    },
+    {
+      "title": "Como Criar um eCommerce de Sucesso",
+      "permalink": "/blog/como-criar-um-ecommerce"
+    },
+    {
+      "title": "Pesquisas Remuneradas Funcionam? Guia Completo para Ganhar Dinheiro Respondendo Pesquisas",
+      "permalink": "/blog/pesquisas-remuneradas"
+    },
+    {
+      "title": "Como Fazer um Pitch de Vendas Perfeito - Guia Completo para Convencer Clientes",
+      "permalink": "/blog/como-fazer-um-pitch-de-vendas"
     }
   ]
 }

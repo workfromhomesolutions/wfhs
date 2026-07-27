@@ -23,19 +23,19 @@
         "items": [
           {
             "type": "link",
-            "label": "Método de Negócio online",
+            "label": "Já pensou em empreender no digital, mas não sabe por onde começar?",
             "href": "/docs/cursos/negocio-online",
             "docId": "cursos/negocio-online"
           },
           {
             "type": "link",
-            "label": "Método de Venda de PLRs",
+            "label": "Como agregar valor em um produto que outras pessoas queiram comprar?",
             "href": "/docs/cursos/venda-plr",
             "docId": "cursos/venda-plr"
           },
           {
             "type": "link",
-            "label": "Método técnicas de Home Office",
+            "label": "Como manter a disciplina e o foco trabalhando de casa?",
             "href": "/docs/cursos/home-office",
             "docId": "cursos/home-office"
           }
@@ -50,25 +50,25 @@
         "items": [
           {
             "type": "link",
-            "label": "4 formas de lucrar com o ChatGPT",
+            "label": "Será que a Inteligência Artificial vai roubar seu dinheiro?",
             "href": "/docs/ebooks/lucro-chatgpt",
             "docId": "ebooks/lucro-chatgpt"
           },
           {
             "type": "link",
-            "label": "Como realizar um Pitch de Vendas",
+            "label": "Quantas vendas você perde por não saber apresentar seu produto?",
             "href": "/docs/ebooks/pitch-vendas",
             "docId": "ebooks/pitch-vendas"
           },
           {
             "type": "link",
-            "label": "Os segredos do bitcoin revelados",
+            "label": "Como o Bitcoin pode te ajudar a escapar da corrida dos ratos?",
             "href": "/docs/ebooks/segredos-bitcoin",
             "docId": "ebooks/segredos-bitcoin"
           },
           {
             "type": "link",
-            "label": "Perfil lucrativo em pesquisas",
+            "label": "Você ainda compartilha sua opinião sem receber nada em troca?",
             "href": "/docs/ebooks/pesquisas-lucrativas",
             "docId": "ebooks/pesquisas-lucrativas"
           }
@@ -86,44 +86,44 @@
   "docs": {
     "cursos/home-office": {
       "id": "cursos/home-office",
-      "title": "Método técnicas de Home Office",
-      "description": "R$49.99",
+      "title": "Como manter a disciplina e o foco trabalhando de casa?",
+      "description": "Você acorda decidido a ser produtivo...",
       "sidebar": "tutorialSidebar"
     },
     "cursos/negocio-online": {
       "id": "cursos/negocio-online",
-      "title": "Método de Negócio online",
-      "description": "R$24.99",
+      "title": "Já pensou em empreender no digital, mas não sabe por onde começar?",
+      "description": "Todos os dias alguém faz exatamente esta pesquisa no Google.",
       "sidebar": "tutorialSidebar"
     },
     "cursos/venda-plr": {
       "id": "cursos/venda-plr",
-      "title": "Método de Venda de PLRs",
-      "description": "R$34.99",
+      "title": "Como agregar valor em um produto que outras pessoas queiram comprar?",
+      "description": "Imagine duas garrafas de água.",
       "sidebar": "tutorialSidebar"
     },
     "ebooks/lucro-chatgpt": {
       "id": "ebooks/lucro-chatgpt",
-      "title": "4 formas de lucrar com o ChatGPT",
-      "description": "R$4.99",
+      "title": "Será que a Inteligência Artificial vai roubar seu dinheiro?",
+      "description": "Nos últimos anos, a Inteligência Artificial saiu dos filmes de ficção científica e passou a fazer parte do nosso dia a dia.",
       "sidebar": "tutorialSidebar"
     },
     "ebooks/pesquisas-lucrativas": {
       "id": "ebooks/pesquisas-lucrativas",
-      "title": "Perfil lucrativo em pesquisas",
-      "description": "R$9.99",
+      "title": "Você ainda compartilha sua opinião sem receber nada em troca?",
+      "description": "Pense na última vez que você respondeu uma pesquisa.",
       "sidebar": "tutorialSidebar"
     },
     "ebooks/pitch-vendas": {
       "id": "ebooks/pitch-vendas",
-      "title": "Como realizar um Pitch de Vendas",
-      "description": "R$9.99",
+      "title": "Quantas vendas você perde por não saber apresentar seu produto?",
+      "description": "Imagine a seguinte situação.",
       "sidebar": "tutorialSidebar"
     },
     "ebooks/segredos-bitcoin": {
       "id": "ebooks/segredos-bitcoin",
-      "title": "Os segredos do bitcoin revelados",
-      "description": "R$9.99",
+      "title": "Como o Bitcoin pode te ajudar a escapar da corrida dos ratos?",
+      "description": "Imagine trabalhar o mês inteiro...",
       "sidebar": "tutorialSidebar"
     },
     "politica-privacidade": {
@@ -135,7 +135,7 @@
     "sobre-nos": {
       "id": "sobre-nos",
       "title": "Sobre nós",
-      "description": "Bem-vindo a WorkFromHome Solutions! Somos uma equipe de especialistas dedicados",
+      "description": "Acreditamos que o trabalho deve oferecer liberdade, não aprisionar.",
       "sidebar": "tutorialSidebar"
     }
   }

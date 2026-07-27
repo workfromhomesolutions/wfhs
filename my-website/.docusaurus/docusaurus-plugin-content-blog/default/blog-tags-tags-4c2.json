@@ -1,17 +1,137 @@
 [
   {
+    "label": "Investimentos",
+    "permalink": "/blog/tags/investimentos",
+    "count": 2
+  },
+  {
+    "label": "Planilhas",
+    "permalink": "/blog/tags/planilhas",
+    "count": 2
+  },
+  {
+    "label": "Educação Financeira",
+    "permalink": "/blog/tags/educacao-financeira",
+    "count": 2
+  },
+  {
+    "label": "Carteira de Investimentos",
+    "permalink": "/blog/tags/carteira-de-investimentos",
+    "count": 1
+  },
+  {
+    "label": "Finanças Pessoais",
+    "permalink": "/blog/tags/financas-pessoais",
+    "count": 1
+  },
+  {
+    "label": "Planejamento Financeiro",
+    "permalink": "/blog/tags/planejamento-financeiro",
+    "count": 1
+  },
+  {
+    "label": "eCommerce",
+    "permalink": "/blog/tags/e-commerce",
+    "count": 1
+  },
+  {
+    "label": "Empreendedorismo",
+    "permalink": "/blog/tags/empreendedorismo",
+    "count": 2
+  },
+  {
+    "label": "Marketing Digital",
+    "permalink": "/blog/tags/marketing-digital",
+    "count": 2
+  },
+  {
+    "label": "Loja Virtual",
+    "permalink": "/blog/tags/loja-virtual",
+    "count": 1
+  },
+  {
+    "label": "Renda Extra",
+    "permalink": "/blog/tags/renda-extra",
+    "count": 4
+  },
+  {
+    "label": "Pesquisas Remuneradas",
+    "permalink": "/blog/tags/pesquisas-remuneradas",
+    "count": 1
+  },
+  {
+    "label": "Trabalho Online",
+    "permalink": "/blog/tags/trabalho-online",
+    "count": 1
+  },
+  {
+    "label": "Ganhar Dinheiro",
+    "permalink": "/blog/tags/ganhar-dinheiro",
+    "count": 1
+  },
+  {
+    "label": "Vendas",
+    "permalink": "/blog/tags/vendas",
+    "count": 1
+  },
+  {
+    "label": "Marketing",
+    "permalink": "/blog/tags/marketing",
+    "count": 1
+  },
+  {
+    "label": "Comunicação",
+    "permalink": "/blog/tags/comunicacao",
+    "count": 1
+  },
+  {
+    "label": "Bitcoin",
+    "permalink": "/blog/tags/bitcoin",
+    "count": 1
+  },
+  {
+    "label": "Criptomoedas",
+    "permalink": "/blog/tags/criptomoedas",
+    "count": 1
+  },
+  {
+    "label": "Blockchain",
+    "permalink": "/blog/tags/blockchain",
+    "count": 1
+  },
+  {
+    "label": "PLR",
+    "permalink": "/blog/tags/plr",
+    "count": 1
+  },
+  {
+    "label": "Produtos Digitais",
+    "permalink": "/blog/tags/produtos-digitais",
+    "count": 1
+  },
+  {
+    "label": "ChatGPT",
+    "permalink": "/blog/tags/chat-gpt",
+    "count": 1
+  },
+  {
+    "label": "Inteligência Artificial",
+    "permalink": "/blog/tags/inteligencia-artificial",
+    "count": 1
+  },
+  {
+    "label": "Produtividade",
+    "permalink": "/blog/tags/produtividade",
+    "count": 2
+  },
+  {
     "label": "Home Office",
     "permalink": "/blog/tags/home-office",
     "count": 1
   },
   {
-    "label": "guia",
-    "permalink": "/blog/tags/guia",
-    "count": 1
-  },
-  {
-    "label": "dicas",
-    "permalink": "/blog/tags/dicas",
+    "label": "Trabalho Remoto",
+    "permalink": "/blog/tags/trabalho-remoto",
     "count": 1
   }
 ]

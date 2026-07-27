@@ -1,8 +1,8 @@
 {
   "unversionedId": "ebooks/segredos-bitcoin",
   "id": "ebooks/segredos-bitcoin",
-  "title": "Os segredos do bitcoin revelados",
-  "description": "R$9.99",
+  "title": "Como o Bitcoin pode te ajudar a escapar da corrida dos ratos?",
+  "description": "Imagine trabalhar o mês inteiro...",
   "source": "@site/docs/ebooks/segredos-bitcoin.mdx",
   "sourceDirName": "ebooks",
   "slug": "/ebooks/segredos-bitcoin",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Como realizar um Pitch de Vendas",
+    "title": "Quantas vendas você perde por não saber apresentar seu produto?",
     "permalink": "/docs/ebooks/pitch-vendas"
   },
   "next": {
-    "title": "Perfil lucrativo em pesquisas",
+    "title": "Você ainda compartilha sua opinião sem receber nada em troca?",
     "permalink": "/docs/ebooks/pesquisas-lucrativas"
   }
 }

@@ -1,25 +1,29 @@
 {
-  "permalink": "/blog/sobre-home-office",
+  "permalink": "/blog/trabalho-home-office",
   "source": "@site/blog/index.mdx",
-  "title": "Sobre o Home Office",
-  "description": "Trabalhar no conforto do lar tem se tornado uma realidade cada vez mais presente na vida de muitas pessoas. O home office, ou trabalho remoto, oferece uma série de vantagens, mas também apresenta seus desafios únicos. Neste blogpost, exploraremos as principais vantagens do home office, discutiremos os desafios que podem surgir ao trabalhar em casa e compartilharemos dicas valiosas para garantir o sucesso nesse ambiente.",
-  "date": "2023-06-21T12:55:08.714Z",
-  "formattedDate": "June 21, 2023",
+  "title": "Home Office - Como Trabalhar em Casa e Construir uma Carreira Remota",
+  "description": "Descubra como começar no home office, encontrar vagas remotas, organizar sua rotina e aumentar sua produtividade trabalhando de casa.",
+  "date": "2023-09-01T21:01:07.000Z",
+  "formattedDate": "September 1, 2023",
   "tags": [
     {
       "label": "Home Office",
       "permalink": "/blog/tags/home-office"
     },
     {
-      "label": "guia",
-      "permalink": "/blog/tags/guia"
+      "label": "Trabalho Remoto",
+      "permalink": "/blog/tags/trabalho-remoto"
     },
     {
-      "label": "dicas",
-      "permalink": "/blog/tags/dicas"
+      "label": "Produtividade",
+      "permalink": "/blog/tags/produtividade"
+    },
+    {
+      "label": "Renda Extra",
+      "permalink": "/blog/tags/renda-extra"
     }
   ],
-  "readingTime": 2.675,
+  "readingTime": 3.88,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -31,15 +35,22 @@
     }
   ],
   "frontMatter": {
-    "slug": "sobre-home-office",
-    "authors": [
-      "wfhs"
-    ],
-    "title": "Sobre o Home Office",
+    "slug": "trabalho-home-office",
+    "title": "Home Office - Como Trabalhar em Casa e Construir uma Carreira Remota",
+    "description": "Descubra como começar no home office, encontrar vagas remotas, organizar sua rotina e aumentar sua produtividade trabalhando de casa.",
     "tags": [
       "Home Office",
-      "guia",
-      "dicas"
+      "Trabalho Remoto",
+      "Produtividade",
+      "Renda Extra"
+    ],
+    "image": "/img/blog/home-office-guia.webp",
+    "authors": [
+      "wfhs"
     ]
+  },
+  "prevItem": {
+    "title": "Como Usar o ChatGPT para Ganhar Dinheiro",
+    "permalink": "/blog/como-usar-chatgpt"
   }
 }

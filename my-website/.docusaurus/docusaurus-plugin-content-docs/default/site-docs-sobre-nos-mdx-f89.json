@@ -2,7 +2,7 @@
   "unversionedId": "sobre-nos",
   "id": "sobre-nos",
   "title": "Sobre nós",
-  "description": "Bem-vindo a WorkFromHome Solutions! Somos uma equipe de especialistas dedicados",
+  "description": "Acreditamos que o trabalho deve oferecer liberdade, não aprisionar.",
   "source": "@site/docs/sobre-nos.mdx",
   "sourceDirName": ".",
   "slug": "/sobre-nos",

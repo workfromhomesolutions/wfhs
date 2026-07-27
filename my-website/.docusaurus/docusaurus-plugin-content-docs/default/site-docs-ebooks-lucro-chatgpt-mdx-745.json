@@ -1,8 +1,8 @@
 {
   "unversionedId": "ebooks/lucro-chatgpt",
   "id": "ebooks/lucro-chatgpt",
-  "title": "4 formas de lucrar com o ChatGPT",
-  "description": "R$4.99",
+  "title": "Será que a Inteligência Artificial vai roubar seu dinheiro?",
+  "description": "Nos últimos anos, a Inteligência Artificial saiu dos filmes de ficção científica e passou a fazer parte do nosso dia a dia.",
   "source": "@site/docs/ebooks/lucro-chatgpt.mdx",
   "sourceDirName": "ebooks",
   "slug": "/ebooks/lucro-chatgpt",
@@ -20,7 +20,7 @@
     "permalink": "/docs/category/lista-de-e-books"
   },
   "next": {
-    "title": "Como realizar um Pitch de Vendas",
+    "title": "Quantas vendas você perde por não saber apresentar seu produto?",
     "permalink": "/docs/ebooks/pitch-vendas"
   }
 }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "ebooks/pesquisas-lucrativas",
   "id": "ebooks/pesquisas-lucrativas",
-  "title": "Perfil lucrativo em pesquisas",
-  "description": "R$9.99",
+  "title": "Você ainda compartilha sua opinião sem receber nada em troca?",
+  "description": "Pense na última vez que você respondeu uma pesquisa.",
   "source": "@site/docs/ebooks/pesquisas-lucrativas.mdx",
   "sourceDirName": "ebooks",
   "slug": "/ebooks/pesquisas-lucrativas",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Os segredos do bitcoin revelados",
+    "title": "Como o Bitcoin pode te ajudar a escapar da corrida dos ratos?",
     "permalink": "/docs/ebooks/segredos-bitcoin"
   },
   "next": {
