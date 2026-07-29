@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Pacotes de cursos": {
+    "message": "Pacotes de cursos",
+    "description": "The label for category 'Pacotes de cursos' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Pacotes de cursos.link.generated-index.description": {
+    "message": "Cursos completos com conteúdos variados em vídeos e e-books para ter apoiar a alcançar seus objetivos.",
+    "description": "The generated-index page description for category 'Pacotes de cursos' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Lista de e-Books": {
+    "message": "Lista de e-Books",
+    "description": "The label for category 'Lista de e-Books' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Lista de e-Books.link.generated-index.description": {
+    "message": "Inicie sua trajetória de aprendizado com livros digitais elaborados por especialistas para ler em qualquer lugar.",
+    "description": "The generated-index page description for category 'Lista de e-Books' in sidebar 'tutorialSidebar'"
+  }
+}

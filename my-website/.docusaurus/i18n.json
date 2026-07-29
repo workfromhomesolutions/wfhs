@@ -1,11 +1,23 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "pt-BR",
   "locales": [
-    "en"
+    "pt-BR",
+    "en",
+    "es"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "pt-BR",
   "localeConfigs": {
+    "pt-BR": {
+      "label": "Português",
+      "direction": "ltr",
+      "htmlLang": "pt-BR",
+      "calendar": "gregory",
+      "path": "pt-BR",
+      "translate": false,
+      "url": "https://docusaurus-2.netlify.app",
+      "baseUrl": "/"
+    },
     "en": {
       "label": "English",
       "direction": "ltr",
@@ -14,7 +26,17 @@
       "path": "en",
       "translate": true,
       "url": "https://docusaurus-2.netlify.app",
-      "baseUrl": "/"
+      "baseUrl": "/en/"
+    },
+    "es": {
+      "label": "Español",
+      "direction": "ltr",
+      "htmlLang": "es",
+      "calendar": "gregory",
+      "path": "es",
+      "translate": true,
+      "url": "https://docusaurus-2.netlify.app",
+      "baseUrl": "/es/"
     }
   }
 }

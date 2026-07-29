@@ -16,12 +16,24 @@ export default {
     "https://fonts.googleapis.com/icon?family=Material+Icons"
   ],
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "pt-BR",
     "locales": [
-      "en"
+      "pt-BR",
+      "en",
+      "es"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "pt-BR": {
+        "label": "Português"
+      },
+      "en": {
+        "label": "English"
+      },
+      "es": {
+        "label": "Español"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
@@ -64,6 +76,12 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false

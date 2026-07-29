@@ -33,8 +33,13 @@ const config = {
     "https://fonts.googleapis.com/icon?family=Material+Icons",
   ],
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR','en', 'es'],
+    localeConfigs: {
+      'pt-BR': { label: 'Português' },
+      'en': { label: 'English' },
+      'es': { label: 'Español' },
+    }
   },
 
   presets: [
@@ -74,7 +79,11 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'}
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          }
         ],
       },
       footer: {
