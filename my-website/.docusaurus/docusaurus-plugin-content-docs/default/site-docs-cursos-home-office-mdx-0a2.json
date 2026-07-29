@@ -1,5 +1,4 @@
 {
-  "unversionedId": "cursos/home-office",
   "id": "cursos/home-office",
   "title": "Como manter a disciplina e o foco trabalhando de casa?",
   "description": "Você acorda decidido a ser produtivo...",
@@ -8,6 +7,7 @@
   "slug": "/cursos/home-office",
   "permalink": "/docs/cursos/home-office",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,

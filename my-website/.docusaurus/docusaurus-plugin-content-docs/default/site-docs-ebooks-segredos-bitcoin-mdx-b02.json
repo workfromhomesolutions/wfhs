@@ -1,5 +1,4 @@
 {
-  "unversionedId": "ebooks/segredos-bitcoin",
   "id": "ebooks/segredos-bitcoin",
   "title": "Como o Bitcoin pode te ajudar a escapar da corrida dos ratos?",
   "description": "Imagine trabalhar o mês inteiro...",
@@ -8,6 +7,7 @@
   "slug": "/ebooks/segredos-bitcoin",
   "permalink": "/docs/ebooks/segredos-bitcoin",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,

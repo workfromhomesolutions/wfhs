@@ -1,5 +1,4 @@
 {
-  "unversionedId": "cursos/negocio-online",
   "id": "cursos/negocio-online",
   "title": "Já pensou em empreender no digital, mas não sabe por onde começar?",
   "description": "Todos os dias alguém faz exatamente esta pesquisa no Google.",
@@ -8,6 +7,7 @@
   "slug": "/cursos/negocio-online",
   "permalink": "/docs/cursos/negocio-online",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,

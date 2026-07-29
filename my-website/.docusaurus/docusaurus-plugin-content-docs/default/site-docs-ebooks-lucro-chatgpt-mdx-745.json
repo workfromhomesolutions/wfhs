@@ -1,5 +1,4 @@
 {
-  "unversionedId": "ebooks/lucro-chatgpt",
   "id": "ebooks/lucro-chatgpt",
   "title": "Será que a Inteligência Artificial vai roubar seu dinheiro?",
   "description": "Nos últimos anos, a Inteligência Artificial saiu dos filmes de ficção científica e passou a fazer parte do nosso dia a dia.",
@@ -8,6 +7,7 @@
   "slug": "/ebooks/lucro-chatgpt",
   "permalink": "/docs/ebooks/lucro-chatgpt",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "cursos/venda-plr",
   "id": "cursos/venda-plr",
   "title": "Como agregar valor em um produto que outras pessoas queiram comprar?",
   "description": "Imagine duas garrafas de água.",
@@ -8,6 +7,7 @@
   "slug": "/cursos/venda-plr",
   "permalink": "/docs/cursos/venda-plr",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,

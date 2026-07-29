@@ -3,27 +3,30 @@
   "source": "@site/blog/index.mdx",
   "title": "Home Office - Como Trabalhar em Casa e Construir uma Carreira Remota",
   "description": "Descubra como começar no home office, encontrar vagas remotas, organizar sua rotina e aumentar sua produtividade trabalhando de casa.",
-  "date": "2023-09-01T21:01:07.000Z",
-  "formattedDate": "September 1, 2023",
+  "date": "2017-03-31T22:00:00.000Z",
   "tags": [
     {
+      "inline": true,
       "label": "Home Office",
       "permalink": "/blog/tags/home-office"
     },
     {
+      "inline": true,
       "label": "Trabalho Remoto",
       "permalink": "/blog/tags/trabalho-remoto"
     },
     {
+      "inline": true,
       "label": "Produtividade",
       "permalink": "/blog/tags/produtividade"
     },
     {
+      "inline": true,
       "label": "Renda Extra",
       "permalink": "/blog/tags/renda-extra"
     }
   ],
-  "readingTime": 3.9,
+  "readingTime": 4.05,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -31,7 +34,8 @@
       "title": "Empreendedorismo digital",
       "url": "https://github.com/workfromhomesolutions",
       "imageURL": "https://avatars.githubusercontent.com/u/137298140?v=4",
-      "key": "wfhs"
+      "key": "wfhs",
+      "page": null
     }
   ],
   "frontMatter": {
@@ -49,8 +53,13 @@
       "wfhs"
     ]
   },
+  "unlisted": false,
   "prevItem": {
-    "title": "Como Usar o ChatGPT para Ganhar Dinheiro",
-    "permalink": "/blog/como-usar-chatgpt"
+    "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
+    "permalink": "/blog/planilha-de-gastos"
+  },
+  "nextItem": {
+    "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
+    "permalink": "/blog/planilha-de-investimentos"
   }
 }

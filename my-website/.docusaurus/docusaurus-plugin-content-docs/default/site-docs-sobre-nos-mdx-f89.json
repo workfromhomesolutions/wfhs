@@ -1,5 +1,4 @@
 {
-  "unversionedId": "sobre-nos",
   "id": "sobre-nos",
   "title": "Sobre nós",
   "description": "Acreditamos que o trabalho deve oferecer liberdade, não aprisionar.",
@@ -8,6 +7,7 @@
   "slug": "/sobre-nos",
   "permalink": "/docs/sobre-nos",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
