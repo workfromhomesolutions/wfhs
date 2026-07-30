@@ -7,11 +7,11 @@ export default {
   "title": "Aprenda a trabalhar de casa com eficiência",
   "tagline": "Nós ajudamos profissionais a desenvolver habilidades para trabalhar de casa com eficiência",
   "favicon": "img/favicon.ico",
-  "url": "https://docusaurus-2.netlify.app",
-  "baseUrl": "/",
+  "url": "https://wfhs.vercel.app",
+  "baseUrl": "/es/",
   "organizationName": "WorkFromHome Solutions",
-  "projectName": "Site",
-  "onBrokenLinks": "throw",
+  "projectName": "WFHS Site",
+  "onBrokenLinks": "warn",
   "stylesheets": [
     "https://fonts.googleapis.com/icon?family=Material+Icons"
   ],

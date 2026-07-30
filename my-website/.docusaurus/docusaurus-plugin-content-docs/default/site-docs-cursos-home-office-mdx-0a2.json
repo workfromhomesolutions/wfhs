@@ -5,7 +5,7 @@
   "source": "@site/docs/cursos/home-office.mdx",
   "sourceDirName": "cursos",
   "slug": "/cursos/home-office",
-  "permalink": "/docs/cursos/home-office",
+  "permalink": "/es/docs/cursos/home-office",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Como agregar valor em um produto que outras pessoas queiram comprar?",
-    "permalink": "/docs/cursos/venda-plr"
+    "permalink": "/es/docs/cursos/venda-plr"
   },
   "next": {
     "title": "Lista de e-Books",
-    "permalink": "/docs/category/lista-de-e-books"
+    "permalink": "/es/docs/category/lista-de-e-books"
   }
 }

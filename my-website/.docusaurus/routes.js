@@ -3,320 +3,285 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/es/blog',
+    component: ComponentCreator('/es/blog', '04e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/es/blog/archive',
+    component: ComponentCreator('/es/blog/archive', 'c1d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/es/blog/authors',
+    component: ComponentCreator('/es/blog/authors', 'e39'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/es/blog/como-criar-um-ecommerce',
+    component: ComponentCreator('/es/blog/como-criar-um-ecommerce', '990'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/es/blog/como-fazer-um-pitch-de-vendas',
+    component: ComponentCreator('/es/blog/como-fazer-um-pitch-de-vendas', '675'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/es/blog/como-investir-em-bitcoin',
+    component: ComponentCreator('/es/blog/como-investir-em-bitcoin', 'c83'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/es/blog/como-usar-chatgpt',
+    component: ComponentCreator('/es/blog/como-usar-chatgpt', '471'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '554'),
+    path: '/es/blog/como-vender-produtos-plr',
+    component: ComponentCreator('/es/blog/como-vender-produtos-plr', 'a08'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/es/blog/pesquisas-remuneradas',
+    component: ComponentCreator('/es/blog/pesquisas-remuneradas', '5f0'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/es/blog/planilha-de-gastos',
+    component: ComponentCreator('/es/blog/planilha-de-gastos', '805'),
     exact: true
   },
   {
-    path: '/blog/como-criar-um-ecommerce',
-    component: ComponentCreator('/blog/como-criar-um-ecommerce', '5ee'),
+    path: '/es/blog/planilha-de-investimentos',
+    component: ComponentCreator('/es/blog/planilha-de-investimentos', '021'),
     exact: true
   },
   {
-    path: '/blog/como-fazer-um-pitch-de-vendas',
-    component: ComponentCreator('/blog/como-fazer-um-pitch-de-vendas', 'c24'),
+    path: '/es/blog/tags',
+    component: ComponentCreator('/es/blog/tags', 'b1d'),
     exact: true
   },
   {
-    path: '/blog/como-investir-em-bitcoin',
-    component: ComponentCreator('/blog/como-investir-em-bitcoin', '76e'),
+    path: '/es/blog/tags/bitcoin',
+    component: ComponentCreator('/es/blog/tags/bitcoin', '42f'),
     exact: true
   },
   {
-    path: '/blog/como-usar-chatgpt',
-    component: ComponentCreator('/blog/como-usar-chatgpt', 'e1e'),
+    path: '/es/blog/tags/blockchain',
+    component: ComponentCreator('/es/blog/tags/blockchain', 'cad'),
     exact: true
   },
   {
-    path: '/blog/como-vender-produtos-plr',
-    component: ComponentCreator('/blog/como-vender-produtos-plr', '477'),
+    path: '/es/blog/tags/carteira-de-investimentos',
+    component: ComponentCreator('/es/blog/tags/carteira-de-investimentos', 'f40'),
     exact: true
   },
   {
-    path: '/blog/pesquisas-remuneradas',
-    component: ComponentCreator('/blog/pesquisas-remuneradas', 'b5c'),
+    path: '/es/blog/tags/chat-gpt',
+    component: ComponentCreator('/es/blog/tags/chat-gpt', 'b6b'),
     exact: true
   },
   {
-    path: '/blog/planilha-de-gastos',
-    component: ComponentCreator('/blog/planilha-de-gastos', 'e29'),
+    path: '/es/blog/tags/comunicacao',
+    component: ComponentCreator('/es/blog/tags/comunicacao', 'cf9'),
     exact: true
   },
   {
-    path: '/blog/planilha-de-investimentos',
-    component: ComponentCreator('/blog/planilha-de-investimentos', '34f'),
+    path: '/es/blog/tags/criptomoedas',
+    component: ComponentCreator('/es/blog/tags/criptomoedas', 'e01'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/es/blog/tags/e-commerce',
+    component: ComponentCreator('/es/blog/tags/e-commerce', 'dbb'),
     exact: true
   },
   {
-    path: '/blog/tags/bitcoin',
-    component: ComponentCreator('/blog/tags/bitcoin', '67d'),
+    path: '/es/blog/tags/educacao-financeira',
+    component: ComponentCreator('/es/blog/tags/educacao-financeira', '039'),
     exact: true
   },
   {
-    path: '/blog/tags/blockchain',
-    component: ComponentCreator('/blog/tags/blockchain', 'ac1'),
+    path: '/es/blog/tags/empreendedorismo',
+    component: ComponentCreator('/es/blog/tags/empreendedorismo', 'ecc'),
     exact: true
   },
   {
-    path: '/blog/tags/carteira-de-investimentos',
-    component: ComponentCreator('/blog/tags/carteira-de-investimentos', 'bd4'),
+    path: '/es/blog/tags/financas-pessoais',
+    component: ComponentCreator('/es/blog/tags/financas-pessoais', '4c0'),
     exact: true
   },
   {
-    path: '/blog/tags/chat-gpt',
-    component: ComponentCreator('/blog/tags/chat-gpt', 'ad8'),
+    path: '/es/blog/tags/ganhar-dinheiro',
+    component: ComponentCreator('/es/blog/tags/ganhar-dinheiro', '76e'),
     exact: true
   },
   {
-    path: '/blog/tags/comunicacao',
-    component: ComponentCreator('/blog/tags/comunicacao', '3b2'),
+    path: '/es/blog/tags/home-office',
+    component: ComponentCreator('/es/blog/tags/home-office', '9a6'),
     exact: true
   },
   {
-    path: '/blog/tags/criptomoedas',
-    component: ComponentCreator('/blog/tags/criptomoedas', '162'),
+    path: '/es/blog/tags/inteligencia-artificial',
+    component: ComponentCreator('/es/blog/tags/inteligencia-artificial', '9f3'),
     exact: true
   },
   {
-    path: '/blog/tags/e-commerce',
-    component: ComponentCreator('/blog/tags/e-commerce', 'cc7'),
+    path: '/es/blog/tags/investimentos',
+    component: ComponentCreator('/es/blog/tags/investimentos', '5c7'),
     exact: true
   },
   {
-    path: '/blog/tags/educacao-financeira',
-    component: ComponentCreator('/blog/tags/educacao-financeira', '6b4'),
+    path: '/es/blog/tags/loja-virtual',
+    component: ComponentCreator('/es/blog/tags/loja-virtual', 'f09'),
     exact: true
   },
   {
-    path: '/blog/tags/empreendedorismo',
-    component: ComponentCreator('/blog/tags/empreendedorismo', 'd8f'),
+    path: '/es/blog/tags/marketing',
+    component: ComponentCreator('/es/blog/tags/marketing', '08b'),
     exact: true
   },
   {
-    path: '/blog/tags/financas-pessoais',
-    component: ComponentCreator('/blog/tags/financas-pessoais', '947'),
+    path: '/es/blog/tags/marketing-digital',
+    component: ComponentCreator('/es/blog/tags/marketing-digital', '6a3'),
     exact: true
   },
   {
-    path: '/blog/tags/ganhar-dinheiro',
-    component: ComponentCreator('/blog/tags/ganhar-dinheiro', '0b0'),
+    path: '/es/blog/tags/pesquisas-remuneradas',
+    component: ComponentCreator('/es/blog/tags/pesquisas-remuneradas', '733'),
     exact: true
   },
   {
-    path: '/blog/tags/home-office',
-    component: ComponentCreator('/blog/tags/home-office', '44c'),
+    path: '/es/blog/tags/planejamento-financeiro',
+    component: ComponentCreator('/es/blog/tags/planejamento-financeiro', 'dd6'),
     exact: true
   },
   {
-    path: '/blog/tags/inteligencia-artificial',
-    component: ComponentCreator('/blog/tags/inteligencia-artificial', 'b9f'),
+    path: '/es/blog/tags/planilhas',
+    component: ComponentCreator('/es/blog/tags/planilhas', '2de'),
     exact: true
   },
   {
-    path: '/blog/tags/investimentos',
-    component: ComponentCreator('/blog/tags/investimentos', 'ddd'),
+    path: '/es/blog/tags/plr',
+    component: ComponentCreator('/es/blog/tags/plr', 'be7'),
     exact: true
   },
   {
-    path: '/blog/tags/loja-virtual',
-    component: ComponentCreator('/blog/tags/loja-virtual', '01d'),
+    path: '/es/blog/tags/produtividade',
+    component: ComponentCreator('/es/blog/tags/produtividade', '58f'),
     exact: true
   },
   {
-    path: '/blog/tags/marketing',
-    component: ComponentCreator('/blog/tags/marketing', '29c'),
+    path: '/es/blog/tags/produtos-digitais',
+    component: ComponentCreator('/es/blog/tags/produtos-digitais', '5f0'),
     exact: true
   },
   {
-    path: '/blog/tags/marketing-digital',
-    component: ComponentCreator('/blog/tags/marketing-digital', 'ef3'),
+    path: '/es/blog/tags/renda-extra',
+    component: ComponentCreator('/es/blog/tags/renda-extra', 'b88'),
     exact: true
   },
   {
-    path: '/blog/tags/pesquisas-remuneradas',
-    component: ComponentCreator('/blog/tags/pesquisas-remuneradas', '86a'),
+    path: '/es/blog/tags/trabalho-online',
+    component: ComponentCreator('/es/blog/tags/trabalho-online', '570'),
     exact: true
   },
   {
-    path: '/blog/tags/planejamento-financeiro',
-    component: ComponentCreator('/blog/tags/planejamento-financeiro', '1a0'),
+    path: '/es/blog/tags/trabalho-remoto',
+    component: ComponentCreator('/es/blog/tags/trabalho-remoto', 'acc'),
     exact: true
   },
   {
-    path: '/blog/tags/planilhas',
-    component: ComponentCreator('/blog/tags/planilhas', '6e8'),
+    path: '/es/blog/tags/vendas',
+    component: ComponentCreator('/es/blog/tags/vendas', '8ce'),
     exact: true
   },
   {
-    path: '/blog/tags/plr',
-    component: ComponentCreator('/blog/tags/plr', '666'),
+    path: '/es/blog/trabalho-home-office',
+    component: ComponentCreator('/es/blog/trabalho-home-office', 'f82'),
     exact: true
   },
   {
-    path: '/blog/tags/produtividade',
-    component: ComponentCreator('/blog/tags/produtividade', '936'),
+    path: '/es/markdown-page',
+    component: ComponentCreator('/es/markdown-page', '724'),
     exact: true
   },
   {
-    path: '/blog/tags/produtos-digitais',
-    component: ComponentCreator('/blog/tags/produtos-digitais', '692'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/renda-extra',
-    component: ComponentCreator('/blog/tags/renda-extra', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/trabalho-online',
-    component: ComponentCreator('/blog/tags/trabalho-online', 'c32'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/trabalho-remoto',
-    component: ComponentCreator('/blog/tags/trabalho-remoto', 'bbf'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/vendas',
-    component: ComponentCreator('/blog/tags/vendas', 'e3c'),
-    exact: true
-  },
-  {
-    path: '/blog/trabalho-home-office',
-    component: ComponentCreator('/blog/trabalho-home-office', '719'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '856'),
+    path: '/es/docs',
+    component: ComponentCreator('/es/docs', 'f57'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '8e1'),
+        path: '/es/docs',
+        component: ComponentCreator('/es/docs', 'b39'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '556'),
+            path: '/es/docs',
+            component: ComponentCreator('/es/docs', 'eae'),
             routes: [
               {
-                path: '/docs/category/lista-de-e-books',
-                component: ComponentCreator('/docs/category/lista-de-e-books', '15d'),
+                path: '/es/docs/category/lista-de-e-books',
+                component: ComponentCreator('/es/docs/category/lista-de-e-books', '5b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/pacotes-de-cursos',
-                component: ComponentCreator('/docs/category/pacotes-de-cursos', '8da'),
+                path: '/es/docs/category/pacotes-de-cursos',
+                component: ComponentCreator('/es/docs/category/pacotes-de-cursos', '86a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cursos/home-office',
-                component: ComponentCreator('/docs/cursos/home-office', 'bd9'),
+                path: '/es/docs/cursos/home-office',
+                component: ComponentCreator('/es/docs/cursos/home-office', 'b54'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cursos/negocio-online',
-                component: ComponentCreator('/docs/cursos/negocio-online', 'fc9'),
+                path: '/es/docs/cursos/negocio-online',
+                component: ComponentCreator('/es/docs/cursos/negocio-online', '06d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cursos/venda-plr',
-                component: ComponentCreator('/docs/cursos/venda-plr', 'a87'),
+                path: '/es/docs/cursos/venda-plr',
+                component: ComponentCreator('/es/docs/cursos/venda-plr', 'b59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ebooks/lucro-chatgpt',
-                component: ComponentCreator('/docs/ebooks/lucro-chatgpt', '6ee'),
+                path: '/es/docs/ebooks/lucro-chatgpt',
+                component: ComponentCreator('/es/docs/ebooks/lucro-chatgpt', 'ebe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ebooks/pesquisas-lucrativas',
-                component: ComponentCreator('/docs/ebooks/pesquisas-lucrativas', 'a63'),
+                path: '/es/docs/ebooks/pesquisas-lucrativas',
+                component: ComponentCreator('/es/docs/ebooks/pesquisas-lucrativas', 'ff2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ebooks/pitch-vendas',
-                component: ComponentCreator('/docs/ebooks/pitch-vendas', '97e'),
+                path: '/es/docs/ebooks/pitch-vendas',
+                component: ComponentCreator('/es/docs/ebooks/pitch-vendas', '7ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ebooks/segredos-bitcoin',
-                component: ComponentCreator('/docs/ebooks/segredos-bitcoin', '837'),
+                path: '/es/docs/ebooks/segredos-bitcoin',
+                component: ComponentCreator('/es/docs/ebooks/segredos-bitcoin', '92f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/politica-privacidade',
-                component: ComponentCreator('/docs/politica-privacidade', 'a6d'),
+                path: '/es/docs/politica-privacidade',
+                component: ComponentCreator('/es/docs/politica-privacidade', 'f3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/sobre-nos',
-                component: ComponentCreator('/docs/sobre-nos', 'b3b'),
+                path: '/es/docs/sobre-nos',
+                component: ComponentCreator('/es/docs/sobre-nos', 'f42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -327,8 +292,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/es/',
+    component: ComponentCreator('/es/', '124'),
     exact: true
   },
   {

@@ -5,7 +5,7 @@
   "source": "@site/docs/sobre-nos.mdx",
   "sourceDirName": ".",
   "slug": "/sobre-nos",
-  "permalink": "/docs/sobre-nos",
+  "permalink": "/es/docs/sobre-nos",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Pacotes de cursos",
-    "permalink": "/docs/category/pacotes-de-cursos"
+    "permalink": "/es/docs/category/pacotes-de-cursos"
   }
 }

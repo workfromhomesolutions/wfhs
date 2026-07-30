@@ -6,7 +6,7 @@
     "es"
   ],
   "path": "i18n",
-  "currentLocale": "pt-BR",
+  "currentLocale": "es",
   "localeConfigs": {
     "pt-BR": {
       "label": "Português",
@@ -15,7 +15,7 @@
       "calendar": "gregory",
       "path": "pt-BR",
       "translate": false,
-      "url": "https://docusaurus-2.netlify.app",
+      "url": "https://wfhs.vercel.app",
       "baseUrl": "/"
     },
     "en": {
@@ -25,7 +25,7 @@
       "calendar": "gregory",
       "path": "en",
       "translate": true,
-      "url": "https://docusaurus-2.netlify.app",
+      "url": "https://wfhs.vercel.app",
       "baseUrl": "/en/"
     },
     "es": {
@@ -35,7 +35,7 @@
       "calendar": "gregory",
       "path": "es",
       "translate": true,
-      "url": "https://docusaurus-2.netlify.app",
+      "url": "https://wfhs.vercel.app",
       "baseUrl": "/es/"
     }
   }
