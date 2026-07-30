@@ -1,14 +1,14 @@
 {
   "link.title.Redes sociais": {
-    "message": "Redes sociais",
+    "message": "Social media",
     "description": "The title of the footer links column with title=Redes sociais in the footer"
   },
   "link.title.Comunidade": {
-    "message": "Comunidade",
+    "message": "Community",
     "description": "The title of the footer links column with title=Comunidade in the footer"
   },
   "link.title.Mais": {
-    "message": "Mais",
+    "message": "More",
     "description": "The title of the footer links column with title=Mais in the footer"
   },
   "link.item.label.Facebook": {
@@ -40,7 +40,7 @@
     "description": "The label of footer link with label=Blog linking to /blog"
   },
   "copyright": {
-    "message": "Copyright © 2026 WorkFromHome Solutions, Inc. Feito com Docusaurus e Inteligência Artificial.",
+    "message": "Copyright © 2026 WorkFromHome Solutions, Inc. Built with Docusaurus and Artificial Intelligence.",
     "description": "The footer copyright"
   }
 }
