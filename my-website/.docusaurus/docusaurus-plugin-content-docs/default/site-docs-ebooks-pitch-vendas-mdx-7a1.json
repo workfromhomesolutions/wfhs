@@ -5,7 +5,7 @@
   "source": "@site/docs/ebooks/pitch-vendas.mdx",
   "sourceDirName": "ebooks",
   "slug": "/ebooks/pitch-vendas",
-  "permalink": "/es/docs/ebooks/pitch-vendas",
+  "permalink": "/docs/ebooks/pitch-vendas",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Será que a Inteligência Artificial vai roubar seu dinheiro?",
-    "permalink": "/es/docs/ebooks/lucro-chatgpt"
+    "permalink": "/docs/ebooks/lucro-chatgpt"
   },
   "next": {
     "title": "Como o Bitcoin pode te ajudar a escapar da corrida dos ratos?",
-    "permalink": "/es/docs/ebooks/segredos-bitcoin"
+    "permalink": "/docs/ebooks/segredos-bitcoin"
   }
 }

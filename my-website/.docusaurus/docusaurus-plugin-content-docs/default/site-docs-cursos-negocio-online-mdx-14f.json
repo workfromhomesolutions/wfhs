@@ -5,7 +5,7 @@
   "source": "@site/docs/cursos/negocio-online.mdx",
   "sourceDirName": "cursos",
   "slug": "/cursos/negocio-online",
-  "permalink": "/es/docs/cursos/negocio-online",
+  "permalink": "/docs/cursos/negocio-online",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pacotes de cursos",
-    "permalink": "/es/docs/category/pacotes-de-cursos"
+    "permalink": "/docs/category/pacotes-de-cursos"
   },
   "next": {
     "title": "Como agregar valor em um produto que outras pessoas queiram comprar?",
-    "permalink": "/es/docs/cursos/venda-plr"
+    "permalink": "/docs/cursos/venda-plr"
   }
 }

@@ -8,7 +8,7 @@ export default {
   "tagline": "Nós ajudamos profissionais a desenvolver habilidades para trabalhar de casa com eficiência",
   "favicon": "img/favicon.ico",
   "url": "https://wfhs.vercel.app",
-  "baseUrl": "/es/",
+  "baseUrl": "/",
   "organizationName": "WorkFromHome Solutions",
   "projectName": "WFHS Site",
   "onBrokenLinks": "warn",
@@ -76,12 +76,6 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
-        },
-        {
-          "type": "localeDropdown",
-          "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false

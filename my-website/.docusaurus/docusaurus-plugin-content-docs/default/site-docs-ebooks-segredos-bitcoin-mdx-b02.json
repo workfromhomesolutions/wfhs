@@ -5,7 +5,7 @@
   "source": "@site/docs/ebooks/segredos-bitcoin.mdx",
   "sourceDirName": "ebooks",
   "slug": "/ebooks/segredos-bitcoin",
-  "permalink": "/es/docs/ebooks/segredos-bitcoin",
+  "permalink": "/docs/ebooks/segredos-bitcoin",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Quantas vendas você perde por não saber apresentar seu produto?",
-    "permalink": "/es/docs/ebooks/pitch-vendas"
+    "permalink": "/docs/ebooks/pitch-vendas"
   },
   "next": {
     "title": "Você ainda compartilha sua opinião sem receber nada em troca?",
-    "permalink": "/es/docs/ebooks/pesquisas-lucrativas"
+    "permalink": "/docs/ebooks/pesquisas-lucrativas"
   }
 }

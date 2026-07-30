@@ -1,29 +1,29 @@
 {
-  "permalink": "/es/blog/trabalho-home-office",
+  "permalink": "/blog/trabalho-home-office",
   "source": "@site/blog/index.mdx",
   "title": "Home Office - Como Trabalhar em Casa e Construir uma Carreira Remota",
   "description": "Descubra como começar no home office, encontrar vagas remotas, organizar sua rotina e aumentar sua produtividade trabalhando de casa.",
-  "date": "2023-09-01T21:01:07.000Z",
+  "date": "2017-03-31T22:00:00.000Z",
   "tags": [
     {
       "inline": true,
       "label": "Home Office",
-      "permalink": "/es/blog/tags/home-office"
+      "permalink": "/blog/tags/home-office"
     },
     {
       "inline": true,
       "label": "Trabalho Remoto",
-      "permalink": "/es/blog/tags/trabalho-remoto"
+      "permalink": "/blog/tags/trabalho-remoto"
     },
     {
       "inline": true,
       "label": "Produtividade",
-      "permalink": "/es/blog/tags/produtividade"
+      "permalink": "/blog/tags/produtividade"
     },
     {
       "inline": true,
       "label": "Renda Extra",
-      "permalink": "/es/blog/tags/renda-extra"
+      "permalink": "/blog/tags/renda-extra"
     }
   ],
   "readingTime": 4.05,
@@ -55,7 +55,11 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Como Usar o ChatGPT para Ganhar Dinheiro",
-    "permalink": "/es/blog/como-usar-chatgpt"
+    "title": "Planilha de Gastos - Como Organizar suas Finanças e Economizar Mais",
+    "permalink": "/blog/planilha-de-gastos"
+  },
+  "nextItem": {
+    "title": "Planilha de Investimentos Automatizada - Controle sua Carteira de Forma Inteligente",
+    "permalink": "/blog/planilha-de-investimentos"
   }
 }

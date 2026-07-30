@@ -1,68 +1,68 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/es/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/es/docs",
+          "path": "/docs",
           "mainDocId": "sobre-nos",
           "docs": [
             {
               "id": "cursos/home-office",
-              "path": "/es/docs/cursos/home-office",
+              "path": "/docs/cursos/home-office",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "cursos/negocio-online",
-              "path": "/es/docs/cursos/negocio-online",
+              "path": "/docs/cursos/negocio-online",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "cursos/venda-plr",
-              "path": "/es/docs/cursos/venda-plr",
+              "path": "/docs/cursos/venda-plr",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ebooks/lucro-chatgpt",
-              "path": "/es/docs/ebooks/lucro-chatgpt",
+              "path": "/docs/ebooks/lucro-chatgpt",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ebooks/pesquisas-lucrativas",
-              "path": "/es/docs/ebooks/pesquisas-lucrativas",
+              "path": "/docs/ebooks/pesquisas-lucrativas",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ebooks/pitch-vendas",
-              "path": "/es/docs/ebooks/pitch-vendas",
+              "path": "/docs/ebooks/pitch-vendas",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ebooks/segredos-bitcoin",
-              "path": "/es/docs/ebooks/segredos-bitcoin",
+              "path": "/docs/ebooks/segredos-bitcoin",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "politica-privacidade",
-              "path": "/es/docs/politica-privacidade",
+              "path": "/docs/politica-privacidade",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sobre-nos",
-              "path": "/es/docs/sobre-nos",
+              "path": "/docs/sobre-nos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/pacotes-de-cursos",
-              "path": "/es/docs/category/pacotes-de-cursos",
+              "path": "/docs/category/pacotes-de-cursos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/lista-de-e-books",
-              "path": "/es/docs/category/lista-de-e-books",
+              "path": "/docs/category/lista-de-e-books",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +70,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/es/docs/sobre-nos",
+                "path": "/docs/sobre-nos",
                 "label": "sobre-nos"
               }
             }
