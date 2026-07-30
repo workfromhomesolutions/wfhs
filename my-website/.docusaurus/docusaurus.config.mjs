@@ -113,7 +113,7 @@ export default {
             },
             {
               "label": "Pinterest",
-              "href": "https://pin.it/5zriIQB"
+              "href": "https://br.pinterest.com/wfhs_original/_created"
             }
           ]
         },
