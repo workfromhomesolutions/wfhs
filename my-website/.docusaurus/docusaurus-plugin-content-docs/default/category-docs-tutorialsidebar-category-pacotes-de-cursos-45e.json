@@ -1,6 +1,6 @@
 {
   "title": "Pacotes de cursos",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "description": "Cursos completos com conteúdos variados em vídeos e e-books para ter apoiar a alcançar seus objetivos.",
   "slug": "/category/pacotes-de-cursos",
   "permalink": "/docs/category/pacotes-de-cursos",
   "navigation": {
@@ -9,7 +9,7 @@
       "permalink": "/docs/sobre-nos"
     },
     "next": {
-      "title": "Método de Negócio online",
+      "title": "Já pensou em empreender no digital, mas não sabe por onde começar?",
       "permalink": "/docs/cursos/negocio-online"
     }
   }

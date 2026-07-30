@@ -1,87 +1,351 @@
 {
-  "/__docusaurus/debug-7e2": {
+  "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/config-338": {
+  "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/content-d84": {
+  "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/__docusaurus/debug/globalData-709": {
+  "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/metadata-ac1": {
+  "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/registry-6de": {
+  "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/routes-638": {
+  "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugc-1-a-ab9"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-3f0": {
+  "/blog-554": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
+        "content": "content---blog-3-d-3-aca"
+      },
+      {
+        "content": "content---blog-3-b-8-102"
+      },
+      {
+        "content": "content---blog-598-44f"
+      },
+      {
+        "content": "content---blog-83-e-52b"
+      },
+      {
         "content": "content---blog-844-f39"
+      },
+      {
+        "content": "content---blogd-4-d-843"
+      },
+      {
+        "content": "content---blog-6-a-7-99c"
+      },
+      {
+        "content": "content---blog-396-2e1"
+      },
+      {
+        "content": "content---blog-4-ac-5f5"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "__props": "__props---blogc-15-573"
   },
-  "/blog/archive-727": {
+  "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "plugin": "plugin---blog-369-22e"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "__props": "__props---blog-archivef-81-229"
   },
-  "/blog/sobre-home-office-688": {
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/como-criar-um-ecommerce-5ee": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-sobre-home-officedd-4-d7f"
+    "content": "content---blog-como-criar-um-ecommerce-400-452"
   },
-  "/blog/tags-8d8": {
+  "/blog/como-fazer-um-pitch-de-vendas-c24": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-como-fazer-um-pitch-de-vendasc-4-a-dac"
+  },
+  "/blog/como-investir-em-bitcoin-76e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-como-investir-em-bitcoin-91-b-a96"
+  },
+  "/blog/como-usar-chatgpt-e1e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-como-usar-chatgptcc-8-539"
+  },
+  "/blog/como-vender-produtos-plr-477": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-como-vender-produtos-plr-8-d-1-a41"
+  },
+  "/blog/pesquisas-remuneradas-b5c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-pesquisas-remuneradas-09-f-b93"
+  },
+  "/blog/planilha-de-gastos-e29": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-planilha-de-gastos-143-caf"
+  },
+  "/blog/planilha-de-investimentos-34f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-planilha-de-investimentos-2-c-3-ab6"
+  },
+  "/blog/tags-287": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "__props": "__props---blog-tags-3-a-2-fa2"
   },
-  "/blog/tags/dicas-0d2": {
+  "/blog/tags/bitcoin-67d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-d-3-aca"
+      }
+    ],
+    "__props": "__props---blog-tags-bitcoine-2-b-26d"
+  },
+  "/blog/tags/blockchain-ac1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-d-3-aca"
+      }
+    ],
+    "__props": "__props---blog-tags-blockchain-78-b-8b6"
+  },
+  "/blog/tags/carteira-de-investimentos-bd4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogd-4-d-843"
+      }
+    ],
+    "__props": "__props---blog-tags-carteira-de-investimentos-9-e-1-a1f"
+  },
+  "/blog/tags/chat-gpt-ad8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-b-8-102"
+      }
+    ],
+    "__props": "__props---blog-tags-chat-gpt-3-f-4-f01"
+  },
+  "/blog/tags/comunicacao-3b2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-396-2e1"
+      }
+    ],
+    "__props": "__props---blog-tags-comunicacaodc-3-a4e"
+  },
+  "/blog/tags/criptomoedas-162": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-d-3-aca"
+      }
+    ],
+    "__props": "__props---blog-tags-criptomoedas-75-c-183"
+  },
+  "/blog/tags/e-commerce-cc7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-598-44f"
+      }
+    ],
+    "__props": "__props---blog-tags-e-commerce-412-89b"
+  },
+  "/blog/tags/educacao-financeira-6b4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-83-e-52b"
+      },
+      {
+        "content": "content---blogd-4-d-843"
+      }
+    ],
+    "__props": "__props---blog-tags-educacao-financeiraefa-3c5"
+  },
+  "/blog/tags/empreendedorismo-d8f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-598-44f"
+      },
+      {
+        "content": "content---blog-396-2e1"
+      }
+    ],
+    "__props": "__props---blog-tags-empreendedorismoc-95-4ec"
+  },
+  "/blog/tags/financas-pessoais-947": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-83-e-52b"
+      }
+    ],
+    "__props": "__props---blog-tags-financas-pessoaisa-2-d-08f"
+  },
+  "/blog/tags/ganhar-dinheiro-0b0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-6-a-7-99c"
+      }
+    ],
+    "__props": "__props---blog-tags-ganhar-dinheiro-247-955"
+  },
+  "/blog/tags/home-office-44c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -89,13 +353,202 @@
         "content": "content---blog-844-f39"
       }
     ],
-    "tag": "tag---blog-tags-dicasa-5-f-1bc",
-    "listMetadata": "listMetadata---blog-tags-dicas-9-fc-fe2"
+    "__props": "__props---blog-tags-home-officec-82-4dd"
   },
-  "/blog/tags/guia-191": {
+  "/blog/tags/inteligencia-artificial-b9f": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-b-8-102"
+      }
+    ],
+    "__props": "__props---blog-tags-inteligencia-artificial-0-ae-bce"
+  },
+  "/blog/tags/investimentos-ddd": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-d-3-aca"
+      },
+      {
+        "content": "content---blogd-4-d-843"
+      }
+    ],
+    "__props": "__props---blog-tags-investimentos-2-ff-b6d"
+  },
+  "/blog/tags/loja-virtual-01d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-598-44f"
+      }
+    ],
+    "__props": "__props---blog-tags-loja-virtual-7-d-5-216"
+  },
+  "/blog/tags/marketing-29c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-396-2e1"
+      }
+    ],
+    "__props": "__props---blog-tags-marketing-6-d-9-092"
+  },
+  "/blog/tags/marketing-digital-ef3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-598-44f"
+      },
+      {
+        "content": "content---blog-4-ac-5f5"
+      }
+    ],
+    "__props": "__props---blog-tags-marketing-digital-513-8d7"
+  },
+  "/blog/tags/pesquisas-remuneradas-86a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-6-a-7-99c"
+      }
+    ],
+    "__props": "__props---blog-tags-pesquisas-remuneradasc-69-b9a"
+  },
+  "/blog/tags/planejamento-financeiro-1a0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-83-e-52b"
+      }
+    ],
+    "__props": "__props---blog-tags-planejamento-financeiro-968-372"
+  },
+  "/blog/tags/planilhas-6e8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-83-e-52b"
+      },
+      {
+        "content": "content---blogd-4-d-843"
+      }
+    ],
+    "__props": "__props---blog-tags-planilhas-97-f-272"
+  },
+  "/blog/tags/plr-666": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-4-ac-5f5"
+      }
+    ],
+    "__props": "__props---blog-tags-plrac-8-e2c"
+  },
+  "/blog/tags/produtividade-936": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-b-8-102"
+      },
+      {
+        "content": "content---blog-844-f39"
+      }
+    ],
+    "__props": "__props---blog-tags-produtividadeea-6-48f"
+  },
+  "/blog/tags/produtos-digitais-692": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-4-ac-5f5"
+      }
+    ],
+    "__props": "__props---blog-tags-produtos-digitais-8-ef-5ca"
+  },
+  "/blog/tags/renda-extra-287": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-b-8-102"
+      },
+      {
+        "content": "content---blog-844-f39"
+      },
+      {
+        "content": "content---blog-6-a-7-99c"
+      },
+      {
+        "content": "content---blog-4-ac-5f5"
+      }
+    ],
+    "__props": "__props---blog-tags-renda-extra-2-fa-b4f"
+  },
+  "/blog/tags/trabalho-online-c32": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-6-a-7-99c"
+      }
+    ],
+    "__props": "__props---blog-tags-trabalho-onlineed-9-4ea"
+  },
+  "/blog/tags/trabalho-remoto-bbf": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -103,85 +556,100 @@
         "content": "content---blog-844-f39"
       }
     ],
-    "tag": "tag---blog-tags-guia-329-578",
-    "listMetadata": "listMetadata---blog-tags-guiafc-8-706"
+    "__props": "__props---blog-tags-trabalho-remoto-523-e5e"
   },
-  "/blog/tags/home-office-281": {
+  "/blog/tags/vendas-e3c": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogb-9-e-bd5"
+      "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-844-f39"
+        "content": "content---blog-396-2e1"
       }
     ],
-    "tag": "tag---blog-tags-home-officee-2-d-17c",
-    "listMetadata": "listMetadata---blog-tags-home-office-067-f5d"
+    "__props": "__props---blog-tags-vendas-221-499"
   },
-  "/markdown-page-64a": {
+  "/blog/trabalho-home-office-719": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-trabalho-home-officedd-4-f41"
+  },
+  "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-149-c87"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-05b": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/docs-856": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docs-789-c3d"
-    },
-    "versionMetadata": "versionMetadata---docs-935-398"
+      "plugin": "plugin---docsaba-d7c"
+    }
   },
-  "/docs/category/lista-de-e-books-415": {
+  "/docs-8e1": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-556": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/lista-de-e-books-15d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-lista-de-e-books-7-cc-1e9"
+    "__props": "__props---docs-category-lista-de-e-books-092-874"
   },
-  "/docs/category/pacotes-de-cursos-e56": {
+  "/docs/category/pacotes-de-cursos-8da": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-pacotes-de-cursosb-96-9b5"
+    "__props": "__props---docs-category-pacotes-de-cursos-37-c-663"
   },
-  "/docs/cursos/home-office-2a8": {
+  "/docs/cursos/home-office-bd9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-cursos-home-office-0-a-2-4d6"
   },
-  "/docs/cursos/negocio-online-4e5": {
+  "/docs/cursos/negocio-online-fc9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-cursos-negocio-online-14-f-7d3"
   },
-  "/docs/cursos/venda-plr-f68": {
+  "/docs/cursos/venda-plr-a87": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-cursos-venda-plrf-86-cbf"
   },
-  "/docs/ebooks/lucro-chatgpt-564": {
+  "/docs/ebooks/lucro-chatgpt-6ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-ebooks-lucro-chatgpt-745-570"
   },
-  "/docs/ebooks/pesquisas-lucrativas-239": {
+  "/docs/ebooks/pesquisas-lucrativas-a63": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-ebooks-pesquisas-lucrativas-13-f-15f"
   },
-  "/docs/ebooks/pitch-vendas-ad7": {
+  "/docs/ebooks/pitch-vendas-97e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-ebooks-pitch-vendas-7-a-1-398"
   },
-  "/docs/ebooks/segredos-bitcoin-41c": {
+  "/docs/ebooks/segredos-bitcoin-837": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-ebooks-segredos-bitcoinb-02-a8a"
   },
-  "/docs/politica-privacidade-8c4": {
+  "/docs/politica-privacidade-a6d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-politica-privacidade-9-d-9-cd5"
   },
-  "/docs/sobre-nos-116": {
+  "/docs/sobre-nos-b3b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-sobre-nosf-89-744"
   },
-  "/-ee5": {
+  "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-page-149-c87"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
     "config": "config---5-e-9-4f3"
   }

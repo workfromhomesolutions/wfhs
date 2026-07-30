@@ -1,17 +1,42 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "pt-BR",
   "locales": [
-    "en"
+    "pt-BR",
+    "en",
+    "es"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "pt-BR",
   "localeConfigs": {
+    "pt-BR": {
+      "label": "Português",
+      "direction": "ltr",
+      "htmlLang": "pt-BR",
+      "calendar": "gregory",
+      "path": "pt-BR",
+      "translate": false,
+      "url": "https://wfhs.vercel.app",
+      "baseUrl": "/"
+    },
     "en": {
       "label": "English",
       "direction": "ltr",
       "htmlLang": "en",
       "calendar": "gregory",
-      "path": "en"
+      "path": "en",
+      "translate": true,
+      "url": "https://wfhs.vercel.app",
+      "baseUrl": "/en/"
+    },
+    "es": {
+      "label": "Español",
+      "direction": "ltr",
+      "htmlLang": "es",
+      "calendar": "gregory",
+      "path": "es",
+      "translate": true,
+      "url": "https://wfhs.vercel.app",
+      "baseUrl": "/es/"
     }
   }
 }

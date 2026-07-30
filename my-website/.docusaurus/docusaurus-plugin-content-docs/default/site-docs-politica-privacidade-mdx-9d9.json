@@ -1,5 +1,4 @@
 {
-  "unversionedId": "politica-privacidade",
   "id": "politica-privacidade",
   "title": "Política de privacidade",
   "description": "Na WorkFromHome Solutions, estamos comprometidos em proteger a privacidade de",
@@ -8,6 +7,7 @@
   "slug": "/politica-privacidade",
   "permalink": "/docs/politica-privacidade",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Perfil lucrativo em pesquisas",
+    "title": "Você ainda compartilha sua opinião sem receber nada em troca?",
     "permalink": "/docs/ebooks/pesquisas-lucrativas"
   }
 }

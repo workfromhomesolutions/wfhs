@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
+  url: 'https://wfhs.vercel.app', // Url to your site with no trailing slash
   baseUrl: '/', // Base directory of your site relative to your repo
   //url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -21,9 +21,9 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'WorkFromHome Solutions', // Usually your GitHub org/user name.
-  projectName: 'Site', // Usually your repo name.
+  projectName: 'WFHS Site', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -33,8 +33,13 @@ const config = {
     "https://fonts.googleapis.com/icon?family=Material+Icons",
   ],
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR','en', 'es'],
+    localeConfigs: {
+      'pt-BR': { label: 'Português' },
+      'en': { label: 'English' },
+      'es': { label: 'Español' },
+    }
   },
 
   presets: [
@@ -74,7 +79,11 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'}
+          {to: '/blog', label: 'Blog', position: 'left'},
+         /* {
+            type: 'localeDropdown',
+            position: 'right',
+          } */
         ],
       },
       footer: {
@@ -110,7 +119,7 @@ const config = {
               },
               {
                 label: 'Pinterest',
-                href: 'https://pin.it/5zriIQB',
+                href: 'https://br.pinterest.com/wfhs_original/_created',
               },
             ],
           },

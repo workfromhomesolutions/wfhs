@@ -7,40 +7,57 @@ export default {
   "title": "Aprenda a trabalhar de casa com eficiência",
   "tagline": "Nós ajudamos profissionais a desenvolver habilidades para trabalhar de casa com eficiência",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://wfhs.vercel.app",
   "baseUrl": "/",
   "organizationName": "WorkFromHome Solutions",
-  "projectName": "Site",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "projectName": "WFHS Site",
+  "onBrokenLinks": "warn",
   "stylesheets": [
     "https://fonts.googleapis.com/icon?family=Material+Icons"
   ],
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "pt-BR",
     "locales": [
-      "en"
+      "pt-BR",
+      "en",
+      "es"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "pt-BR": {
+        "label": "Português"
+      },
+      "en": {
+        "label": "English"
+      },
+      "es": {
+        "label": "Español"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\lauany.silva\\Documents\\new revenue\\Site\\my-website\\sidebars.js"
+          "sidebarPath": "C:\\Users\\workf\\Documents\\Repos\\WFHS\\wfhs\\my-website\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\lauany.silva\\Documents\\new revenue\\Site\\my-website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\workf\\Documents\\Repos\\WFHS\\wfhs\\my-website\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
+    "metadata": [
+      {
+        "name": "p:domain_verify",
+        "content": "47bff4edec16c6dfc4c828b9dc1605d4"
+      }
+    ],
     "image": "img/docusaurus-social-card.jpg#rounded",
     "navbar": {
       "title": "WorkFromHome Solutions",
@@ -110,7 +127,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 WorkFromHome Solutions, Inc. Feito com Docusaurus e Inteligência Artificial."
+      "copyright": "Copyright © 2026 WorkFromHome Solutions, Inc. Feito com Docusaurus e Inteligência Artificial."
     },
     "prism": {
       "theme": {
@@ -328,13 +345,44 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
     }
   },
   "baseUrlIssueBanner": true,
+  "storage": {
+    "type": "localStorage",
+    "namespace": false
+  },
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false,
+      "siteStorageNamespacing": false,
+      "fasterByDefault": false,
+      "mdx1CompatDisabledByDefault": false
+    },
+    "faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false,
+      "gitEagerVcs": false
+    },
+    "experimental_vcs": {},
+    "experimental_router": "browser"
+  },
+  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
@@ -348,6 +396,20 @@ export default {
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    }
   }
 };

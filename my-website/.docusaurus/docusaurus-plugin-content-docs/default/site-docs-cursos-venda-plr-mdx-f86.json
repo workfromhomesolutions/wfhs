@@ -1,13 +1,13 @@
 {
-  "unversionedId": "cursos/venda-plr",
   "id": "cursos/venda-plr",
-  "title": "Método de Venda de PLRs",
-  "description": "R$34.99",
+  "title": "Como agregar valor em um produto que outras pessoas queiram comprar?",
+  "description": "Imagine duas garrafas de água.",
   "source": "@site/docs/cursos/venda-plr.mdx",
   "sourceDirName": "cursos",
   "slug": "/cursos/venda-plr",
   "permalink": "/docs/cursos/venda-plr",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Método de Negócio online",
+    "title": "Já pensou em empreender no digital, mas não sabe por onde começar?",
     "permalink": "/docs/cursos/negocio-online"
   },
   "next": {
-    "title": "Método técnicas de Home Office",
+    "title": "Como manter a disciplina e o foco trabalhando de casa?",
     "permalink": "/docs/cursos/home-office"
   }
 }

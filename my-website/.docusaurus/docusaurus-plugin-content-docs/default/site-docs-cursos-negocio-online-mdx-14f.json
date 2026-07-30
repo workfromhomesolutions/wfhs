@@ -1,13 +1,13 @@
 {
-  "unversionedId": "cursos/negocio-online",
   "id": "cursos/negocio-online",
-  "title": "Método de Negócio online",
-  "description": "R$24.99",
+  "title": "Já pensou em empreender no digital, mas não sabe por onde começar?",
+  "description": "Todos os dias alguém faz exatamente esta pesquisa no Google.",
   "source": "@site/docs/cursos/negocio-online.mdx",
   "sourceDirName": "cursos",
   "slug": "/cursos/negocio-online",
   "permalink": "/docs/cursos/negocio-online",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,7 +20,7 @@
     "permalink": "/docs/category/pacotes-de-cursos"
   },
   "next": {
-    "title": "Método de Venda de PLRs",
+    "title": "Como agregar valor em um produto que outras pessoas queiram comprar?",
     "permalink": "/docs/cursos/venda-plr"
   }
 }
